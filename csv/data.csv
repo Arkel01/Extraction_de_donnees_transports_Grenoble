@@ -1,0 +1,1887 @@
+Day;Line;Direction;Stop name;Stop id;Theorical arrival time;Arrival time delay;Departure time delay
+2022-08-12;SEM:C;Le Prisme;Gières, Gières Gare - Universités;SEM:3063;1660322286;0;1
+2022-08-12;SEM:C;Le Prisme;Gières, Mayencin - Champ Roman;SEM:3065;1660322397;0;1
+2022-08-12;SEM:C;Le Prisme;Saint-Martin-d'Hères, Condillac - Universités;SEM:3102;1660322520;0;0
+2022-08-12;SEM:C;Le Prisme;Gières, Bibliothèques Universitaires;SEM:2059;1660322614;0;1
+2022-08-12;SEM:C;Le Prisme;Saint-Martin-d'Hères, Gabriel Fauré;SEM:2057;1660322723;0;1
+2022-08-12;SEM:C;Le Prisme;Saint-Martin-d'Hères, Hector Berlioz - Universités;SEM:2249;1660322820;0;0
+2022-08-12;SEM:C;Le Prisme;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2245;1660322310;0;63
+2022-08-12;SEM:C;Le Prisme;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2245;1660323509;0;1
+2022-08-12;SEM:C;Le Prisme;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2245;1660322929;0;1
+2022-08-12;SEM:C;Le Prisme;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2247;1660322392;0;63
+2022-08-12;SEM:C;Le Prisme;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2247;1660323591;0;1
+2022-08-12;SEM:C;Le Prisme;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2247;1660323006;0;1
+2022-08-12;SEM:C;Le Prisme;Grenoble, Flandrin - Valmy;SEM:2243;1660322509;0;63
+2022-08-12;SEM:C;Le Prisme;Grenoble, Flandrin - Valmy;SEM:2243;1660323708;0;1
+2022-08-12;SEM:C;Le Prisme;Grenoble, Flandrin - Valmy;SEM:2243;1660323116;0;1
+2022-08-12;SEM:C;Le Prisme;Grenoble, Grenoble Hôtel de Ville;SEM:2241;1660322640;0;64
+2022-08-12;SEM:C;Le Prisme;Grenoble, Grenoble Hôtel de Ville;SEM:2241;1660323840;0;0
+2022-08-12;SEM:C;Le Prisme;Grenoble, Grenoble Hôtel de Ville;SEM:2241;1660323240;0;1
+2022-08-12;SEM:C;Le Prisme;Grenoble, Gustave Rivet;SEM:2239;1660322280;0;109
+2022-08-12;SEM:C;Le Prisme;Grenoble, Gustave Rivet;SEM:2239;1660322880;0;64
+2022-08-12;SEM:C;Le Prisme;Grenoble, Gustave Rivet;SEM:2239;1660323480;0;8
+2022-08-12;SEM:C;Le Prisme;Grenoble, Foch - Ferrié;SEM:2237;1660322363;0;109
+2022-08-12;SEM:C;Le Prisme;Grenoble, Foch - Ferrié;SEM:2237;1660322963;0;64
+2022-08-12;SEM:C;Le Prisme;Grenoble, Foch - Ferrié;SEM:2237;1660323566;0;-19
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Libération;SEM:2235;1660322460;0;109
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Libération;SEM:2235;1660323060;0;64
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Libération;SEM:2235;1660323660;0;-12
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Docteur Calmette;SEM:2233;1660322519;0;110
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Docteur Calmette;SEM:2233;1660323119;0;65
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Docteur Calmette;SEM:2233;1660323720;0;4
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Catane;SEM:2231;1660322576;0;110
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Catane;SEM:2231;1660323176;0;65
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Catane;SEM:2231;1660323778;0;4
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2229;1660322700;0;109
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2229;1660323300;0;64
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2229;1660323900;0;7
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Fauconnière;SEM:2227;1660322791;0;110
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Fauconnière;SEM:2227;1660323391;0;65
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Fauconnière;SEM:2227;1660324001;0;2
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Grand Pré;SEM:2225;1660322871;0;109
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Grand Pré;SEM:2225;1660323471;0;64
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Grand Pré;SEM:2225;1660324071;0;1
+2022-08-12;SEM:C;Le Prisme;Seyssins, Mas des Iles;SEM:2223;1660322381;0;-123
+2022-08-12;SEM:C;Le Prisme;Seyssins, Mas des Iles;SEM:2223;1660322953;0;109
+2022-08-12;SEM:C;Le Prisme;Seyssins, Mas des Iles;SEM:2223;1660323553;0;64
+2022-08-12;SEM:C;Le Prisme;Saint-Martin-d'Hères, Les Taillées - Universités;SEM:3100;1660323360;0;0
+2022-08-12;SEM:C;Le Prisme;Saint-Martin-d'Hères, Les Taillées - Universités;SEM:3100;1660323960;0;0
+2022-08-12;SEM:C;Les Taillees;Seyssins, Le Prisme;SEM:2222;1660322580;0;0
+2022-08-12;SEM:C;Les Taillees;Seyssins, Le Prisme;SEM:2222;1660323180;0;0
+2022-08-12;SEM:C;Les Taillees;Seyssins, Le Prisme;SEM:2222;1660323780;0;0
+2022-08-12;SEM:C;Les Taillees;Seyssins, Mas des Iles;SEM:2224;1660322645;0;0
+2022-08-12;SEM:C;Les Taillees;Seyssins, Mas des Iles;SEM:2224;1660323245;0;0
+2022-08-12;SEM:C;Les Taillees;Seyssins, Mas des Iles;SEM:2224;1660323845;0;0
+2022-08-12;SEM:C;Les Taillees;Seyssinet-Pariset, Grand Pré;SEM:2226;1660322720;0;1
+2022-08-12;SEM:C;Les Taillees;Seyssinet-Pariset, Grand Pré;SEM:2226;1660323320;0;1
+2022-08-12;SEM:C;Les Taillees;Seyssinet-Pariset, Grand Pré;SEM:2226;1660323920;0;1
+2022-08-12;SEM:C;Les Taillees;Seyssinet-Pariset, Fauconnière;SEM:2228;1660322793;0;1
+2022-08-12;SEM:C;Les Taillees;Seyssinet-Pariset, Fauconnière;SEM:2228;1660323393;0;1
+2022-08-12;SEM:C;Les Taillees;Seyssinet-Pariset, Fauconnière;SEM:2228;1660323993;0;1
+2022-08-12;SEM:C;Les Taillees;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2230;1660322160;0;136
+2022-08-12;SEM:C;Les Taillees;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2230;1660322880;0;0
+2022-08-12;SEM:C;Les Taillees;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2230;1660323480;0;0
+2022-08-12;SEM:C;Les Taillees;Grenoble, Vallier - Catane;SEM:2232;1660322312;0;137
+2022-08-12;SEM:C;Les Taillees;Grenoble, Vallier - Catane;SEM:2232;1660323033;0;0
+2022-08-12;SEM:C;Les Taillees;Grenoble, Vallier - Catane;SEM:2232;1660323633;0;13
+2022-08-12;SEM:C;Les Taillees;Grenoble, Vallier - Docteur Calmette;SEM:2234;1660322383;0;136
+2022-08-12;SEM:C;Les Taillees;Grenoble, Vallier - Docteur Calmette;SEM:2234;1660323103;0;0
+2022-08-12;SEM:C;Les Taillees;Grenoble, Vallier - Docteur Calmette;SEM:2234;1660323703;0;13
+2022-08-12;SEM:C;Les Taillees;Grenoble, Vallier - Libération;SEM:2236;1660322460;0;135
+2022-08-12;SEM:C;Les Taillees;Grenoble, Vallier - Libération;SEM:2236;1660323180;0;-1
+2022-08-12;SEM:C;Les Taillees;Grenoble, Vallier - Libération;SEM:2236;1660323780;0;-1
+2022-08-12;SEM:C;Les Taillees;Grenoble, Foch - Ferrié;SEM:2238;1660322556;0;135
+2022-08-12;SEM:C;Les Taillees;Grenoble, Foch - Ferrié;SEM:2238;1660323276;0;-15
+2022-08-12;SEM:C;Les Taillees;Grenoble, Foch - Ferrié;SEM:2238;1660323876;0;-1
+2022-08-12;SEM:C;Les Taillees;Grenoble, Gustave Rivet;SEM:2240;1660322640;0;135
+2022-08-12;SEM:C;Les Taillees;Grenoble, Gustave Rivet;SEM:2240;1660323360;0;-15
+2022-08-12;SEM:C;Les Taillees;Grenoble, Gustave Rivet;SEM:2240;1660323960;0;-1
+2022-08-12;SEM:C;Les Taillees;Grenoble, Grenoble Hôtel de Ville;SEM:2242;1660322880;0;113
+2022-08-12;SEM:C;Les Taillees;Grenoble, Grenoble Hôtel de Ville;SEM:2242;1660323600;0;-22
+2022-08-12;SEM:C;Les Taillees;Grenoble, Grenoble Hôtel de Ville;SEM:2242;1660324200;0;-34
+2022-08-12;SEM:C;Les Taillees;Grenoble, Flandrin - Valmy;SEM:2244;1660323036;0;113
+2022-08-12;SEM:C;Les Taillees;Grenoble, Flandrin - Valmy;SEM:2244;1660323749;0;-33
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2248;1660322377;0;-3
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2248;1660323169;0;113
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2248;1660323877;0;-21
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2246;1660322478;0;11
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2246;1660323258;0;99
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2246;1660323978;0;-21
+2022-08-12;SEM:C;Le Prisme;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2245;1660322310;0;123
+2022-08-12;SEM:C;Le Prisme;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2247;1660322392;0;123
+2022-08-12;SEM:C;Le Prisme;Grenoble, Flandrin - Valmy;SEM:2243;1660322509;0;123
+2022-08-12;SEM:C;Le Prisme;Grenoble, Grenoble Hôtel de Ville;SEM:2241;1660322640;0;124
+2022-08-12;SEM:C;Le Prisme;Grenoble, Gustave Rivet;SEM:2239;1660322280;0;79
+2022-08-12;SEM:C;Le Prisme;Grenoble, Gustave Rivet;SEM:2239;1660322880;0;124
+2022-08-12;SEM:C;Le Prisme;Grenoble, Foch - Ferrié;SEM:2237;1660322363;0;79
+2022-08-12;SEM:C;Le Prisme;Grenoble, Foch - Ferrié;SEM:2237;1660322963;0;124
+2022-08-12;SEM:C;Le Prisme;Grenoble, Foch - Ferrié;SEM:2237;1660323563;0;24
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Libération;SEM:2235;1660322460;0;79
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Libération;SEM:2235;1660323060;0;124
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Libération;SEM:2235;1660323660;0;25
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Docteur Calmette;SEM:2233;1660322519;0;80
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Docteur Calmette;SEM:2233;1660323119;0;125
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Catane;SEM:2231;1660323176;0;125
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2229;1660322700;0;79
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2229;1660323300;0;124
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Fauconnière;SEM:2227;1660322791;0;80
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Fauconnière;SEM:2227;1660323391;0;125
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Grand Pré;SEM:2225;1660322871;0;79
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Grand Pré;SEM:2225;1660323471;0;124
+2022-08-12;SEM:C;Le Prisme;Seyssins, Mas des Iles;SEM:2223;1660322953;0;79
+2022-08-12;SEM:C;Le Prisme;Seyssins, Mas des Iles;SEM:2223;1660323553;0;124
+2022-08-12;SEM:C;Le Prisme;Seyssins, Mas des Iles;SEM:2223;1660324153;0;24
+2022-08-12;SEM:C;Les Taillees;Grenoble, Flandrin - Valmy;SEM:2244;1660324349;0;-33
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2246;1660322478;0;-28
+2022-08-12;SEM:C;Le Prisme;Saint-Martin-d'Hères, Les Taillées - Universités;SEM:3100;1660324560;0;0
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2246;1660322478;0;-67
+2022-08-12;SEM:C;Les Taillees;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2230;1660324080;0;13
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2248;1660324477;0;-20
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2246;1660322478;0;-56
+2022-08-12;SEM:C;Le Prisme;Seyssins, Mas des Iles;SEM:2223;1660322966;0;105
+2022-08-12;SEM:C;Le Prisme;Seyssins, Mas des Iles;SEM:2223;1660323566;0;107
+2022-08-12;SEM:C;Les Taillees;Grenoble, Vallier - Catane;SEM:2232;1660322313;0;101
+2022-08-12;SEM:C;Les Taillees;Grenoble, Vallier - Docteur Calmette;SEM:2234;1660322383;0;101
+2022-08-12;SEM:C;Les Taillees;Grenoble, Vallier - Libération;SEM:2236;1660322460;0;100
+2022-08-12;SEM:C;Les Taillees;Grenoble, Foch - Ferrié;SEM:2238;1660322556;0;100
+2022-08-12;SEM:C;Les Taillees;Grenoble, Gustave Rivet;SEM:2240;1660322640;0;100
+2022-08-12;SEM:C;Les Taillees;Grenoble, Grenoble Hôtel de Ville;SEM:2242;1660322880;0;67
+2022-08-12;SEM:C;Les Taillees;Grenoble, Flandrin - Valmy;SEM:2244;1660323029;0;68
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2248;1660323157;0;68
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2246;1660323258;0;68
+2022-08-12;SEM:C;Le Prisme;Grenoble, Gustave Rivet;SEM:2239;1660322880;0;107
+2022-08-12;SEM:C;Le Prisme;Grenoble, Foch - Ferrié;SEM:2237;1660322963;0;107
+2022-08-12;SEM:C;Le Prisme;Grenoble, Foch - Ferrié;SEM:2237;1660323563;0;-16
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Libération;SEM:2235;1660323060;0;107
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Libération;SEM:2235;1660323660;0;-16
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Docteur Calmette;SEM:2233;1660323119;0;108
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Catane;SEM:2231;1660323176;0;108
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2229;1660323300;0;107
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Fauconnière;SEM:2227;1660322796;0;105
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Fauconnière;SEM:2227;1660323396;0;107
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Grand Pré;SEM:2225;1660322879;0;105
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Grand Pré;SEM:2225;1660323479;0;107
+2022-08-12;SEM:C;Les Taillees;Grenoble, Grenoble Hôtel de Ville;SEM:2242;1660322880;0;108
+2022-08-12;SEM:C;Les Taillees;Grenoble, Grenoble Hôtel de Ville;SEM:2242;1660324200;0;-1
+2022-08-12;SEM:C;Les Taillees;Grenoble, Flandrin - Valmy;SEM:2244;1660323029;0;109
+2022-08-12;SEM:C;Les Taillees;Grenoble, Flandrin - Valmy;SEM:2244;1660324349;0;0
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2248;1660323157;0;109
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2246;1660323258;0;109
+2022-08-12;SEM:C;Le Prisme;Grenoble, Gustave Rivet;SEM:2239;1660322880;0;121
+2022-08-12;SEM:C;Le Prisme;Grenoble, Gustave Rivet;SEM:2239;1660324080;0;-19
+2022-08-12;SEM:C;Le Prisme;Grenoble, Foch - Ferrié;SEM:2237;1660322363;0;123
+2022-08-12;SEM:C;Le Prisme;Grenoble, Foch - Ferrié;SEM:2237;1660322963;0;121
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Libération;SEM:2235;1660322460;0;123
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Libération;SEM:2235;1660323060;0;121
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Docteur Calmette;SEM:2233;1660322519;0;124
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Docteur Calmette;SEM:2233;1660323119;0;122
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Catane;SEM:2231;1660322576;0;124
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Catane;SEM:2231;1660323176;0;122
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2229;1660322700;0;123
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2229;1660323300;0;121
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Fauconnière;SEM:2227;1660322796;0;123
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Fauconnière;SEM:2227;1660323396;0;121
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Grand Pré;SEM:2225;1660322879;0;123
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Grand Pré;SEM:2225;1660323479;0;121
+2022-08-12;SEM:C;Le Prisme;Seyssins, Mas des Iles;SEM:2223;1660322966;0;123
+2022-08-12;SEM:C;Le Prisme;Seyssins, Mas des Iles;SEM:2223;1660323566;0;121
+2022-08-12;SEM:C;Le Prisme;Grenoble, Foch - Ferrié;SEM:2237;1660323563;0;21
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Libération;SEM:2235;1660322460;0;104
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Libération;SEM:2235;1660323660;0;21
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Docteur Calmette;SEM:2233;1660322519;0;105
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Catane;SEM:2231;1660322576;0;105
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2229;1660322700;0;104
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Fauconnière;SEM:2227;1660322796;0;104
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Grand Pré;SEM:2225;1660322879;0;104
+2022-08-12;SEM:C;Le Prisme;Seyssins, Mas des Iles;SEM:2223;1660322966;0;104
+2022-08-12;SEM:C;Les Taillees;Grenoble, Vallier - Catane;SEM:2232;1660324233;0;0
+2022-08-12;SEM:C;Les Taillees;Grenoble, Vallier - Docteur Calmette;SEM:2234;1660322383;0;128
+2022-08-12;SEM:C;Les Taillees;Grenoble, Vallier - Libération;SEM:2236;1660322460;0;127
+2022-08-12;SEM:C;Les Taillees;Grenoble, Foch - Ferrié;SEM:2238;1660322556;0;127
+2022-08-12;SEM:C;Les Taillees;Grenoble, Gustave Rivet;SEM:2240;1660322640;0;127
+2022-08-12;SEM:C;Les Taillees;Grenoble, Grenoble Hôtel de Ville;SEM:2242;1660322880;0;127
+2022-08-12;SEM:C;Les Taillees;Grenoble, Flandrin - Valmy;SEM:2244;1660323029;0;128
+2022-08-12;SEM:C;Les Taillees;Grenoble, Flandrin - Valmy;SEM:2244;1660323749;0;0
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2248;1660323157;0;128
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2246;1660323258;0;128
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2246;1660324578;0;0
+2022-08-12;SEM:C;Le Prisme;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2245;1660324105;0;1
+2022-08-12;SEM:C;Le Prisme;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2247;1660322391;0;162
+2022-08-12;SEM:C;Le Prisme;Grenoble, Flandrin - Valmy;SEM:2243;1660322508;0;162
+2022-08-12;SEM:C;Le Prisme;Grenoble, Grenoble Hôtel de Ville;SEM:2241;1660322640;0;161
+2022-08-12;SEM:C;Le Prisme;Grenoble, Gustave Rivet;SEM:2239;1660322880;0;170
+2022-08-12;SEM:C;Le Prisme;Grenoble, Foch - Ferrié;SEM:2237;1660322963;0;170
+2022-08-12;SEM:C;Le Prisme;Grenoble, Foch - Ferrié;SEM:2237;1660324163;0;9
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Libération;SEM:2235;1660322460;0;121
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Libération;SEM:2235;1660323060;0;170
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Docteur Calmette;SEM:2233;1660322519;0;122
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Docteur Calmette;SEM:2233;1660323119;0;171
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Catane;SEM:2231;1660322576;0;122
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Catane;SEM:2231;1660323176;0;171
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2229;1660322700;0;121
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2229;1660323300;0;170
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Fauconnière;SEM:2227;1660322796;0;121
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Fauconnière;SEM:2227;1660323396;0;170
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Grand Pré;SEM:2225;1660322879;0;121
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Grand Pré;SEM:2225;1660323479;0;170
+2022-08-12;SEM:C;Le Prisme;Seyssins, Mas des Iles;SEM:2223;1660322966;0;121
+2022-08-12;SEM:C;Le Prisme;Seyssins, Mas des Iles;SEM:2223;1660323566;0;170
+2022-08-12;SEM:C;Les Taillees;Grenoble, Vallier - Libération;SEM:2236;1660322460;0;105
+2022-08-12;SEM:C;Les Taillees;Grenoble, Foch - Ferrié;SEM:2238;1660322556;0;105
+2022-08-12;SEM:C;Les Taillees;Grenoble, Gustave Rivet;SEM:2240;1660322640;0;105
+2022-08-12;SEM:C;Les Taillees;Grenoble, Grenoble Hôtel de Ville;SEM:2242;1660322880;0;105
+2022-08-12;SEM:C;Les Taillees;Grenoble, Flandrin - Valmy;SEM:2244;1660323029;0;106
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2248;1660323157;0;106
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2246;1660323258;0;106
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Libération;SEM:2235;1660322460;0;107
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Docteur Calmette;SEM:2233;1660322519;0;108
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Catane;SEM:2231;1660322576;0;108
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2229;1660322700;0;107
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Fauconnière;SEM:2227;1660322796;0;107
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Grand Pré;SEM:2225;1660322879;0;107
+2022-08-12;SEM:C;Le Prisme;Seyssins, Mas des Iles;SEM:2223;1660322966;0;107
+2022-08-12;SEM:C;Les Taillees;Grenoble, Vallier - Docteur Calmette;SEM:2234;1660324303;0;0
+2022-08-12;SEM:C;Les Taillees;Grenoble, Vallier - Libération;SEM:2236;1660322460;0;121
+2022-08-12;SEM:C;Les Taillees;Grenoble, Foch - Ferrié;SEM:2238;1660322556;0;123
+2022-08-12;SEM:C;Les Taillees;Grenoble, Gustave Rivet;SEM:2240;1660322640;0;121
+2022-08-12;SEM:C;Les Taillees;Grenoble, Grenoble Hôtel de Ville;SEM:2242;1660322880;0;121
+2022-08-12;SEM:C;Les Taillees;Grenoble, Flandrin - Valmy;SEM:2244;1660323029;0;122
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2248;1660323157;0;124
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2246;1660323258;0;124
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2248;1660323122;0;107
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2246;1660323211;0;107
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2246;1660324531;0;0
+2022-08-12;SEM:C;Le Prisme;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2247;1660324184;0;1
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Docteur Calmette;SEM:2233;1660323719;0;36
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Grand Pré;SEM:2225;1660324079;0;32
+2022-08-12;SEM:C;Les Taillees;Grenoble, Foch - Ferrié;SEM:2238;1660322556;0;106
+2022-08-12;SEM:C;Les Taillees;Grenoble, Gustave Rivet;SEM:2240;1660322640;0;106
+2022-08-12;SEM:C;Les Taillees;Grenoble, Grenoble Hôtel de Ville;SEM:2242;1660322880;0;106
+2022-08-12;SEM:C;Les Taillees;Grenoble, Flandrin - Valmy;SEM:2244;1660323011;0;106
+2022-08-12;SEM:C;Le Prisme;Seyssins, Mas des Iles;SEM:2223;1660322966;0;139
+2022-08-12;SEM:C;Le Prisme;Seyssins, Mas des Iles;SEM:2223;1660323566;0;132
+2022-08-12;SEM:C;Les Taillees;Seyssins, Le Prisme;SEM:2222;1660324380;0;0
+2022-08-12;SEM:C;Les Taillees;Grenoble, Foch - Ferrié;SEM:2238;1660322556;0;136
+2022-08-12;SEM:C;Les Taillees;Grenoble, Gustave Rivet;SEM:2240;1660322640;0;136
+2022-08-12;SEM:C;Les Taillees;Grenoble, Grenoble Hôtel de Ville;SEM:2242;1660322880;0;136
+2022-08-12;SEM:C;Les Taillees;Grenoble, Flandrin - Valmy;SEM:2244;1660323011;0;136
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2248;1660323122;0;137
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2246;1660323211;0;137
+2022-08-12;SEM:C;Le Prisme;Grenoble, Flandrin - Valmy;SEM:2243;1660322508;0;124
+2022-08-12;SEM:C;Le Prisme;Grenoble, Grenoble Hôtel de Ville;SEM:2241;1660322640;0;123
+2022-08-12;SEM:C;Le Prisme;Grenoble, Gustave Rivet;SEM:2239;1660322880;0;132
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Libération;SEM:2235;1660323060;0;132
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Libération;SEM:2235;1660324260;0;16
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Docteur Calmette;SEM:2233;1660322519;0;140
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Docteur Calmette;SEM:2233;1660323119;0;133
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Catane;SEM:2231;1660322576;0;140
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Catane;SEM:2231;1660323176;0;133
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Catane;SEM:2231;1660323776;0;39
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2229;1660322700;0;139
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2229;1660323300;0;132
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Fauconnière;SEM:2227;1660322796;0;139
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Fauconnière;SEM:2227;1660323396;0;132
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Fauconnière;SEM:2227;1660323996;0;39
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Grand Pré;SEM:2225;1660322879;0;139
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Grand Pré;SEM:2225;1660323479;0;132
+2022-08-12;SEM:C;Le Prisme;Grenoble, Foch - Ferrié;SEM:2237;1660322966;0;130
+2022-08-12;SEM:C;Les Taillees;Grenoble, Vallier - Libération;SEM:2236;1660324380;0;-1
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Docteur Calmette;SEM:2233;1660323119;0;167
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Catane;SEM:2231;1660323176;0;167
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2229;1660323300;0;166
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2229;1660323900;0;61
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Fauconnière;SEM:2227;1660323396;0;166
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Grand Pré;SEM:2225;1660323479;0;166
+2022-08-12;SEM:C;Le Prisme;Seyssins, Mas des Iles;SEM:2223;1660323566;0;166
+2022-08-12;SEM:C;Le Prisme;Seyssins, Mas des Iles;SEM:2223;1660324166;0;61
+2022-08-12;SEM:C;Les Taillees;Grenoble, Grenoble Hôtel de Ville;SEM:2242;1660323600;0;12
+2022-08-12;SEM:C;Le Prisme;Saint-Martin-d'Hères, Gabriel Fauré;SEM:2057;1660322723;0;45
+2022-08-12;SEM:C;Le Prisme;Saint-Martin-d'Hères, Hector Berlioz - Universités;SEM:2249;1660322820;0;44
+2022-08-12;SEM:C;Le Prisme;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2245;1660322929;0;45
+2022-08-12;SEM:C;Le Prisme;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2247;1660323006;0;45
+2022-08-12;SEM:C;Le Prisme;Grenoble, Flandrin - Valmy;SEM:2243;1660323116;0;45
+2022-08-12;SEM:C;Le Prisme;Grenoble, Flandrin - Valmy;SEM:2243;1660324308;0;1
+2022-08-12;SEM:C;Le Prisme;Grenoble, Grenoble Hôtel de Ville;SEM:2241;1660323240;0;45
+2022-08-12;SEM:C;Le Prisme;Grenoble, Gustave Rivet;SEM:2239;1660323480;0;54
+2022-08-12;SEM:C;Le Prisme;Grenoble, Foch - Ferrié;SEM:2237;1660323566;0;54
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Libération;SEM:2235;1660323060;0;166
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Libération;SEM:2235;1660323660;0;61
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Docteur Calmette;SEM:2233;1660324319;0;17
+2022-08-12;SEM:C;Les Taillees;Seyssins, Mas des Iles;SEM:2224;1660324445;0;0
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Libération;SEM:2235;1660323060;0;134
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Docteur Calmette;SEM:2233;1660323119;0;135
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Catane;SEM:2231;1660323176;0;135
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2229;1660323300;0;134
+2022-08-12;SEM:C;Les Taillees;Grenoble, Foch - Ferrié;SEM:2238;1660324476;0;-1
+2022-08-12;SEM:C;Les Taillees;Grenoble, Flandrin - Valmy;SEM:2244;1660323029;0;164
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2248;1660323157;0;164
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2248;1660323877;0;9
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2246;1660323258;0;164
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2246;1660323978;0;9
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Libération;SEM:2235;1660323660;0;29
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2229;1660323900;0;29
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Fauconnière;SEM:2227;1660322801;0;167
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Fauconnière;SEM:2227;1660323401;0;125
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Grand Pré;SEM:2225;1660322889;0;167
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Grand Pré;SEM:2225;1660323489;0;125
+2022-08-12;SEM:C;Le Prisme;Seyssins, Mas des Iles;SEM:2223;1660322981;0;166
+2022-08-12;SEM:C;Les Taillees;Grenoble, Foch - Ferrié;SEM:2238;1660323276;0;20
+2022-08-12;SEM:C;Les Taillees;Grenoble, Gustave Rivet;SEM:2240;1660323360;0;20
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Catane;SEM:2231;1660324376;0;1
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2229;1660322700;0;179
+2022-08-12;SEM:C;Les Taillees;Seyssinet-Pariset, Grand Pré;SEM:2226;1660324520;0;1
+2022-08-12;SEM:C;Les Taillees;Grenoble, Gustave Rivet;SEM:2240;1660324560;0;-1
+2022-08-12;SEM:C;Le Prisme;Grenoble, Grenoble Hôtel de Ville;SEM:2241;1660324440;0;6
+2022-08-12;SEM:C;Le Prisme;Grenoble, Gustave Rivet;SEM:2239;1660323480;0;22
+2022-08-12;SEM:C;Le Prisme;Grenoble, Foch - Ferrié;SEM:2237;1660323563;0;22
+2022-08-12;SEM:C;Le Prisme;Seyssins, Mas des Iles;SEM:2223;1660323581;0;121
+2022-08-12;SEM:C;Les Taillees;Seyssinet-Pariset, Fauconnière;SEM:2228;1660324593;0;1
+2022-08-12;SEM:C;Les Taillees;Grenoble, Flandrin - Valmy;SEM:2244;1660323029;0;125
+2022-08-12;SEM:C;Les Taillees;Grenoble, Flandrin - Valmy;SEM:2244;1660323749;0;33
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2248;1660323157;0;125
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2246;1660323258;0;125
+2022-08-12;SEM:C;Le Prisme;Grenoble, Gustave Rivet;SEM:2239;1660322880;0;98
+2022-08-12;SEM:C;Le Prisme;Grenoble, Foch - Ferrié;SEM:2237;1660322963;0;98
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Libération;SEM:2235;1660323060;0;98
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Docteur Calmette;SEM:2233;1660323119;0;99
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Catane;SEM:2231;1660323176;0;99
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2229;1660323300;0;98
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Fauconnière;SEM:2227;1660323401;0;99
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Grand Pré;SEM:2225;1660323489;0;99
+2022-08-12;SEM:C;Le Prisme;Seyssins, Mas des Iles;SEM:2223;1660323581;0;98
+2022-08-12;SEM:C;Le Prisme;Grenoble, Gustave Rivet;SEM:2239;1660323480;0;56
+2022-08-12;SEM:C;Le Prisme;Grenoble, Foch - Ferrié;SEM:2237;1660323563;0;56
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2229;1660324500;0;23
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2229;1660323900;0;75
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Fauconnière;SEM:2227;1660324001;0;74
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Grand Pré;SEM:2225;1660324089;0;76
+2022-08-12;SEM:C;Les Taillees;Grenoble, Vallier - Catane;SEM:2232;1660323033;0;32
+2022-08-12;SEM:C;Les Taillees;Grenoble, Vallier - Docteur Calmette;SEM:2234;1660323103;0;32
+2022-08-12;SEM:C;Les Taillees;Grenoble, Vallier - Libération;SEM:2236;1660323180;0;31
+2022-08-12;SEM:C;Le Prisme;Seyssins, Mas des Iles;SEM:2223;1660323581;0;124
+2022-08-12;SEM:C;Les Taillees;Grenoble, Grenoble Hôtel de Ville;SEM:2242;1660323600;0;45
+2022-08-12;SEM:C;Les Taillees;Grenoble, Flandrin - Valmy;SEM:2244;1660323029;0;162
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2248;1660323157;0;162
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2248;1660323877;0;46
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2246;1660323258;0;162
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2246;1660323978;0;46
+2022-08-12;SEM:C;Le Prisme;Grenoble, Gustave Rivet;SEM:2239;1660323480;0;19
+2022-08-12;SEM:C;Le Prisme;Grenoble, Foch - Ferrié;SEM:2237;1660323563;0;23
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2229;1660323900;0;36
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Fauconnière;SEM:2227;1660324001;0;37
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Grand Pré;SEM:2225;1660324089;0;37
+2022-08-12;SEM:C;Les Taillees;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2230;1660324680;0;23
+2022-08-12;SEM:C;Les Taillees;Grenoble, Grenoble Hôtel de Ville;SEM:2242;1660324200;0;29
+2022-08-12;SEM:C;Les Taillees;Grenoble, Flandrin - Valmy;SEM:2244;1660324349;0;30
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2248;1660324477;0;30
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2246;1660324578;0;30
+2022-08-12;SEM:C;Le Prisme;Grenoble, Gustave Rivet;SEM:2239;1660323480;0;77
+2022-08-12;SEM:C;Le Prisme;Grenoble, Foch - Ferrié;SEM:2237;1660322963;0;122
+2022-08-12;SEM:C;Le Prisme;Grenoble, Foch - Ferrié;SEM:2237;1660323563;0;77
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Libération;SEM:2235;1660323060;0;122
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Libération;SEM:2235;1660323660;0;77
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Docteur Calmette;SEM:2233;1660323719;0;78
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Catane;SEM:2231;1660323776;0;78
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2229;1660323900;0;77
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Fauconnière;SEM:2227;1660324601;0;5
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Fauconnière;SEM:2227;1660324001;0;78
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Grand Pré;SEM:2225;1660324089;0;78
+2022-08-12;SEM:C;Le Prisme;Seyssins, Mas des Iles;SEM:2223;1660324181;0;77
+2022-08-12;SEM:C;Les Taillees;Grenoble, Vallier - Catane;SEM:2232;1660323033;0;1
+2022-08-12;SEM:C;Les Taillees;Grenoble, Vallier - Docteur Calmette;SEM:2234;1660323103;0;1
+2022-08-12;SEM:C;Les Taillees;Grenoble, Vallier - Libération;SEM:2236;1660323180;0;0
+2022-08-12;SEM:C;Les Taillees;Grenoble, Grenoble Hôtel de Ville;SEM:2242;1660323600;0;7
+2022-08-12;SEM:C;Les Taillees;Grenoble, Flandrin - Valmy;SEM:2244;1660323029;0;129
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2248;1660323157;0;129
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2248;1660323877;0;8
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2246;1660323258;0;129
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2246;1660323978;0;8
+2022-08-12;SEM:C;Le Prisme;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2247;1660323006;0;77
+2022-08-12;SEM:C;Le Prisme;Grenoble, Flandrin - Valmy;SEM:2243;1660323116;0;77
+2022-08-12;SEM:C;Le Prisme;Grenoble, Grenoble Hôtel de Ville;SEM:2241;1660323240;0;77
+2022-08-12;SEM:C;Le Prisme;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2245;1660324709;0;1
+2022-08-12;SEM:C;Le Prisme;Grenoble, Gustave Rivet;SEM:2239;1660324080;0;11
+2022-08-12;SEM:C;Le Prisme;Grenoble, Gustave Rivet;SEM:2239;1660324680;0;0
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Docteur Calmette;SEM:2233;1660323119;0;141
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Catane;SEM:2231;1660323176;0;141
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Grand Pré;SEM:2225;1660324689;0;12
+2022-08-12;SEM:C;Les Taillees;Grenoble, Vallier - Catane;SEM:2232;1660324833;0;23
+2022-08-12;SEM:C;Les Taillees;Grenoble, Grenoble Hôtel de Ville;SEM:2242;1660324800;0;22
+2022-08-12;SEM:C;Le Prisme;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2247;1660324791;0;1
+2022-08-12;SEM:C;Les Taillees;Grenoble, Flandrin - Valmy;SEM:2244;1660323029;0;100
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2248;1660323157;0;100
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:2246;1660323258;0;100
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Libération;SEM:2235;1660323060;0;159
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2229;1660323300;0;159
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Fauconnière;SEM:2227;1660323401;0;160
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Grand Pré;SEM:2225;1660323489;0;160
+2022-08-12;SEM:C;Le Prisme;Seyssins, Mas des Iles;SEM:2223;1660323581;0;159
+2022-08-12;SEM:C;Le Prisme;Seyssins, Mas des Iles;SEM:2223;1660324781;0;11
+2022-08-12;SEM:C;Les Taillees;Grenoble, Vallier - Docteur Calmette;SEM:2234;1660324903;0;23
+2022-08-12;SEM:C;Les Taillees;Grenoble, Flandrin - Valmy;SEM:2244;1660324949;0;23
+2022-08-12;SEM:C;Le Prisme;Grenoble, Foch - Ferrié;SEM:2237;1660324763;0;11
+2022-08-12;SEM:C;Le Prisme;Grenoble, Flandrin - Valmy;SEM:2243;1660324908;0;1
+2022-08-12;SEM:C;Les Taillees;Seyssins, Le Prisme;SEM:2222;1660324980;0;0
+2022-08-12;SEM:C;Le Prisme;Grenoble, Gustave Rivet;SEM:2239;1660323480;0;115
+2022-08-12;SEM:C;Le Prisme;Grenoble, Foch - Ferrié;SEM:2237;1660323563;0;115
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Libération;SEM:2235;1660323660;0;115
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Docteur Calmette;SEM:2233;1660323119;0;183
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Docteur Calmette;SEM:2233;1660323719;0;116
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Catane;SEM:2231;1660323176;0;183
+2022-08-12;SEM:C;Le Prisme;Grenoble, Vallier - Catane;SEM:2231;1660323776;0;116
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2229;1660323900;0;115
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Fauconnière;SEM:2227;1660324001;0;116
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Grand Pré;SEM:2225;1660324089;0;116
+2022-08-12;SEM:C;Le Prisme;Seyssins, Mas des Iles;SEM:2223;1660324181;0;115
+2022-08-12;SEM:C;Les Taillees;Grenoble, Vallier - Libération;SEM:2236;1660324980;0;22
+2022-08-12;SEM:C;Les Taillees;Grenoble, Flandrin - Valmy;SEM:2244;1660323749;0;37
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2248;1660323877;0;41
+2022-08-12;SEM:C;Le Prisme;Grenoble, Grenoble Hôtel de Ville;SEM:2241;1660323240;0;104
+2022-08-12;SEM:C;Les Taillees;Saint-Martin-d'Hères, Péri - Brossolette;SEM:2248;1660325077;0;16
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2229;1660323300;0;198
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Fauconnière;SEM:2227;1660323398;0;202
+2022-08-12;SEM:C;Le Prisme;Seyssinet-Pariset, Grand Pré;SEM:2225;1660323484;0;204
+2022-08-12;SEM:C;Le Prisme;Seyssins, Mas des Iles;SEM:2223;1660323573;0;206
+2022-08-12;SEM:C;Les Taillees;Seyssins, Mas des Iles;SEM:2224;1660325045;0;0
+2022-08-12;SEM:C;Les Taillees;Seyssinet-Pariset, Seyssinet-Pariset Hôtel de Ville;SEM:2230;1660323480;0;35
+2022-08-12;SEM:A;Victor Hugo;Le Pont-de-Claix, L'Etoile;SEM:3393;1660323960;0;0
+2022-08-12;SEM:A;Victor Hugo;Le Pont-de-Claix, L'Etoile;SEM:3393;1660324560;0;0
+2022-08-12;SEM:A;Victor Hugo;Le Pont-de-Claix, L'Etoile;SEM:3393;1660325160;0;0
+2022-08-12;SEM:A;Victor Hugo;Le Pont-de-Claix, Edmée Chandon;SEM:4381;1660324025;0;0
+2022-08-12;SEM:A;Victor Hugo;Le Pont-de-Claix, Edmée Chandon;SEM:4381;1660324625;0;0
+2022-08-12;SEM:A;Victor Hugo;Le Pont-de-Claix, Edmée Chandon;SEM:4381;1660325225;0;0
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Denis Papin;SEM:2074;1660324140;0;11
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Denis Papin;SEM:2074;1660324740;0;12
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Denis Papin;SEM:2074;1660325340;0;0
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Auguste Delaune;SEM:2072;1660324221;0;12
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Auguste Delaune;SEM:2072;1660324819;0;12
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Marie Curie;SEM:2070;1660323700;0;23
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Marie Curie;SEM:2070;1660324289;0;12
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Marie Curie;SEM:2070;1660324889;0;8
+2022-08-12;SEM:A;Victor Hugo;Échirolles, La Rampe - Centre-Ville;SEM:2068;1660323750;0;5
+2022-08-12;SEM:A;Victor Hugo;Échirolles, La Rampe - Centre-Ville;SEM:2068;1660324350;0;12
+2022-08-12;SEM:A;Victor Hugo;Échirolles, La Rampe - Centre-Ville;SEM:2068;1660324950;0;8
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Echirolles Gare;SEM:2207;1660323840;0;5
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Echirolles Gare;SEM:2207;1660324440;0;37
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Echirolles Gare;SEM:2207;1660325040;0;23
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Essarts - La Butte;SEM:2066;1660323902;0;37
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Essarts - La Butte;SEM:2066;1660324502;0;37
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Essarts - La Butte;SEM:2066;1660325104;0;24
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Surieux;SEM:2064;1660324000;0;11
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Surieux;SEM:2064;1660324594;0;37
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Surieux;SEM:2064;1660325200;0;24
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Les Granges;SEM:2062;1660324111;0;11
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Les Granges;SEM:2062;1660324711;0;4
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Les Granges;SEM:2062;1660325316;0;12
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Polesud - Alpexpo;SEM:2060;1660323600;0;93
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Polesud - Alpexpo;SEM:2060;1660324200;0;10
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Polesud - Alpexpo;SEM:2060;1660324800;0;30
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Grand'place;SEM:2212;1660323780;0;106
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Grand'place;SEM:2212;1660324380;0;10
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Grand'place;SEM:2212;1660324980;0;18
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Arlequin;SEM:2004;1660323895;0;106
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Arlequin;SEM:2004;1660324495;0;10
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Arlequin;SEM:2004;1660325095;0;11
+2022-08-12;SEM:A;Victor Hugo;Grenoble, La Bruyère-Parc Jean Verlhac;SEM:2006;1660323964;0;107
+2022-08-12;SEM:A;Victor Hugo;Grenoble, La Bruyère-Parc Jean Verlhac;SEM:2006;1660324564;0;11
+2022-08-12;SEM:A;Victor Hugo;Grenoble, La Bruyère-Parc Jean Verlhac;SEM:2006;1660325164;0;12
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Malherbe;SEM:2008;1660324020;0;128
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Malherbe;SEM:2008;1660324620;0;32
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Malherbe;SEM:2008;1660325220;0;40
+2022-08-12;SEM:A;Victor Hugo;Grenoble, MC2: Maison de la Culture;SEM:2010;1660324118;0;129
+2022-08-12;SEM:A;Victor Hugo;Grenoble, MC2: Maison de la Culture;SEM:2010;1660324718;0;33
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Mounier;SEM:2012;1660323654;0;125
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Mounier;SEM:2012;1660324254;0;129
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Mounier;SEM:2012;1660324854;0;33
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Albert 1er de Belgique;SEM:2014;1660323720;0;124
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Albert 1er de Belgique;SEM:2014;1660324320;0;128
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Albert 1er de Belgique;SEM:2014;1660324920;0;32
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Verdun - Préfecture;SEM:2018;1660324020;0;124
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Verdun - Préfecture;SEM:2018;1660324620;0;128
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Verdun - Préfecture;SEM:2018;1660325220;0;32
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Hubert Dubedout - Maison du Tourisme;SEM:2020;1660324171;0;125
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Hubert Dubedout - Maison du Tourisme;SEM:2020;1660324771;0;129
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Hubert Dubedout - Maison du Tourisme;SEM:2020;1660325371;0;61
+2022-08-12;SEM:A;L'Etoile;Grenoble, Victor Hugo;SEM:2217;1660324080;0;0
+2022-08-12;SEM:A;L'Etoile;Grenoble, Victor Hugo;SEM:2217;1660324680;0;0
+2022-08-12;SEM:A;L'Etoile;Grenoble, Victor Hugo;SEM:2217;1660325280;0;0
+2022-08-12;SEM:A;L'Etoile;Grenoble, Hubert Dubedout - Maison du Tourisme;SEM:2021;1660324170;0;1
+2022-08-12;SEM:A;L'Etoile;Grenoble, Hubert Dubedout - Maison du Tourisme;SEM:2021;1660324770;0;1
+2022-08-12;SEM:A;L'Etoile;Grenoble, Verdun - Préfecture;SEM:2019;1660323720;0;69
+2022-08-12;SEM:A;L'Etoile;Grenoble, Verdun - Préfecture;SEM:2019;1660324320;0;18
+2022-08-12;SEM:A;L'Etoile;Grenoble, Verdun - Préfecture;SEM:2019;1660324920;0;0
+2022-08-12;SEM:A;L'Etoile;Grenoble, Albert 1er de Belgique;SEM:2015;1660324020;0;76
+2022-08-12;SEM:A;L'Etoile;Grenoble, Albert 1er de Belgique;SEM:2015;1660324620;0;-29
+2022-08-12;SEM:A;L'Etoile;Grenoble, Albert 1er de Belgique;SEM:2015;1660325220;0;0
+2022-08-12;SEM:A;L'Etoile;Grenoble, Mounier;SEM:2013;1660324072;0;76
+2022-08-12;SEM:A;L'Etoile;Grenoble, Mounier;SEM:2013;1660324672;0;0
+2022-08-12;SEM:A;L'Etoile;Grenoble, Mounier;SEM:2013;1660325272;0;0
+2022-08-12;SEM:A;L'Etoile;Grenoble, MC2: Maison de la Culture;SEM:2011;1660324181;0;76
+2022-08-12;SEM:A;L'Etoile;Grenoble, MC2: Maison de la Culture;SEM:2011;1660324781;0;0
+2022-08-12;SEM:A;L'Etoile;Grenoble, MC2: Maison de la Culture;SEM:2011;1660325381;0;0
+2022-08-12;SEM:A;L'Etoile;Grenoble, Malherbe;SEM:2009;1660324260;0;76
+2022-08-12;SEM:A;L'Etoile;Grenoble, Malherbe;SEM:2009;1660324860;0;-29
+2022-08-12;SEM:A;L'Etoile;Grenoble, La Bruyère-Parc Jean Verlhac;SEM:2007;1660323728;0;-31
+2022-08-12;SEM:A;L'Etoile;Grenoble, La Bruyère-Parc Jean Verlhac;SEM:2007;1660324328;0;76
+2022-08-12;SEM:A;L'Etoile;Grenoble, La Bruyère-Parc Jean Verlhac;SEM:2007;1660324928;0;-29
+2022-08-12;SEM:A;L'Etoile;Grenoble, Arlequin;SEM:2005;1660323818;0;-53
+2022-08-12;SEM:A;L'Etoile;Grenoble, Arlequin;SEM:2005;1660324418;0;27
+2022-08-12;SEM:A;L'Etoile;Grenoble, Arlequin;SEM:2005;1660324990;0;-28
+2022-08-12;SEM:A;L'Etoile;Grenoble, Grand'place;SEM:2218;1660323900;0;-31
+2022-08-12;SEM:A;L'Etoile;Grenoble, Grand'place;SEM:2218;1660324500;0;78
+2022-08-12;SEM:A;L'Etoile;Grenoble, Grand'place;SEM:2218;1660325100;0;9
+2022-08-12;SEM:A;L'Etoile;Grenoble, Polesud - Alpexpo;SEM:2061;1660324020;0;-31
+2022-08-12;SEM:A;L'Etoile;Grenoble, Polesud - Alpexpo;SEM:2061;1660324620;0;78
+2022-08-12;SEM:A;L'Etoile;Grenoble, Polesud - Alpexpo;SEM:2061;1660325220;0;9
+2022-08-12;SEM:A;L'Etoile;Échirolles, Les Granges;SEM:2063;1660324122;0;-30
+2022-08-12;SEM:A;L'Etoile;Échirolles, Les Granges;SEM:2063;1660324722;0;79
+2022-08-12;SEM:A;L'Etoile;Échirolles, Les Granges;SEM:2063;1660325322;0;1
+2022-08-12;SEM:A;L'Etoile;Échirolles, Surieux;SEM:2065;1660323648;0;54
+2022-08-12;SEM:A;L'Etoile;Échirolles, Surieux;SEM:2065;1660324248;0;-30
+2022-08-12;SEM:A;L'Etoile;Échirolles, Surieux;SEM:2065;1660324848;0;79
+2022-08-12;SEM:A;L'Etoile;Échirolles, Essarts - La Butte;SEM:2067;1660323763;0;54
+2022-08-12;SEM:A;L'Etoile;Échirolles, Essarts - La Butte;SEM:2067;1660324363;0;-30
+2022-08-12;SEM:A;L'Etoile;Échirolles, Essarts - La Butte;SEM:2067;1660324963;0;79
+2022-08-12;SEM:A;L'Etoile;Échirolles, Echirolles Gare;SEM:2208;1660323840;0;53
+2022-08-12;SEM:A;L'Etoile;Échirolles, Echirolles Gare;SEM:2208;1660324440;0;-31
+2022-08-12;SEM:A;L'Etoile;Échirolles, Echirolles Gare;SEM:2208;1660325040;0;78
+2022-08-12;SEM:A;L'Etoile;Échirolles, La Rampe - Centre-Ville;SEM:2069;1660323933;0;41
+2022-08-12;SEM:A;L'Etoile;Échirolles, La Rampe - Centre-Ville;SEM:2069;1660324533;0;-31
+2022-08-12;SEM:A;L'Etoile;Échirolles, La Rampe - Centre-Ville;SEM:2069;1660325133;0;78
+2022-08-12;SEM:A;L'Etoile;Échirolles, Marie Curie;SEM:2071;1660323996;0;41
+2022-08-12;SEM:A;L'Etoile;Échirolles, Marie Curie;SEM:2071;1660324596;0;-31
+2022-08-12;SEM:A;L'Etoile;Échirolles, Marie Curie;SEM:2071;1660325196;0;78
+2022-08-12;SEM:A;L'Etoile;Échirolles, Auguste Delaune;SEM:2073;1660324068;0;41
+2022-08-12;SEM:A;L'Etoile;Échirolles, Auguste Delaune;SEM:2073;1660324668;0;-31
+2022-08-12;SEM:A;L'Etoile;Échirolles, Auguste Delaune;SEM:2073;1660325268;0;78
+2022-08-12;SEM:A;L'Etoile;Échirolles, Denis Papin;SEM:2075;1660324140;0;83
+2022-08-12;SEM:A;L'Etoile;Échirolles, Denis Papin;SEM:2075;1660324740;0;13
+2022-08-12;SEM:A;L'Etoile;Échirolles, Denis Papin;SEM:2075;1660325340;0;94
+2022-08-12;SEM:A;L'Etoile;Le Pont-de-Claix, Edmée Chandon;SEM:4382;1660324291;0;83
+2022-08-12;SEM:A;L'Etoile;Le Pont-de-Claix, Edmée Chandon;SEM:4382;1660324891;0;13
+2022-08-12;SEM:A;L'Etoile;Le Pont-de-Claix, Edmée Chandon;SEM:4382;1660325491;0;96
+2022-08-12;SEM:A;L'Etoile;Grenoble, Verdun - Préfecture;SEM:2019;1660323720;0;114
+2022-08-12;SEM:A;L'Etoile;Grenoble, Albert 1er de Belgique;SEM:2015;1660324020;0;114
+2022-08-12;SEM:A;L'Etoile;Grenoble, Mounier;SEM:2013;1660324072;0;115
+2022-08-12;SEM:A;L'Etoile;Grenoble, MC2: Maison de la Culture;SEM:2011;1660324183;0;115
+2022-08-12;SEM:A;L'Etoile;Grenoble, Malherbe;SEM:2009;1660324260;0;118
+2022-08-12;SEM:A;L'Etoile;Grenoble, Malherbe;SEM:2009;1660325460;0;0
+2022-08-12;SEM:A;L'Etoile;Grenoble, La Bruyère-Parc Jean Verlhac;SEM:2007;1660324328;0;118
+2022-08-12;SEM:A;L'Etoile;Grenoble, Arlequin;SEM:2005;1660324390;0;119
+2022-08-12;SEM:A;L'Etoile;Grenoble, Arlequin;SEM:2005;1660324990;0;5
+2022-08-12;SEM:A;L'Etoile;Grenoble, Grand'place;SEM:2218;1660324500;0;118
+2022-08-12;SEM:A;L'Etoile;Grenoble, Polesud - Alpexpo;SEM:2061;1660324620;0;118
+2022-08-12;SEM:A;L'Etoile;Échirolles, Les Granges;SEM:2063;1660324722;0;119
+2022-08-12;SEM:A;L'Etoile;Échirolles, Surieux;SEM:2065;1660324848;0;119
+2022-08-12;SEM:A;L'Etoile;Échirolles, Essarts - La Butte;SEM:2067;1660324963;0;119
+2022-08-12;SEM:A;L'Etoile;Échirolles, Echirolles Gare;SEM:2208;1660325040;0;118
+2022-08-12;SEM:A;L'Etoile;Échirolles, La Rampe - Centre-Ville;SEM:2069;1660325133;0;118
+2022-08-12;SEM:A;L'Etoile;Échirolles, Marie Curie;SEM:2071;1660325196;0;118
+2022-08-12;SEM:A;L'Etoile;Échirolles, Auguste Delaune;SEM:2073;1660325268;0;118
+2022-08-12;SEM:A;L'Etoile;Échirolles, Denis Papin;SEM:2075;1660324140;0;51
+2022-08-12;SEM:A;L'Etoile;Échirolles, Denis Papin;SEM:2075;1660325340;0;134
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Auguste Delaune;SEM:2072;1660325421;0;11
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Essarts - La Butte;SEM:2066;1660323901;0;0
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Polesud - Alpexpo;SEM:2060;1660324800;0;-3
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Polesud - Alpexpo;SEM:2060;1660325400;0;-3
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Grand'place;SEM:2212;1660323780;0;-10
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Arlequin;SEM:2004;1660323895;0;-10
+2022-08-12;SEM:A;Victor Hugo;Grenoble, La Bruyère-Parc Jean Verlhac;SEM:2006;1660323964;0;-9
+2022-08-12;SEM:A;Victor Hugo;Grenoble, MC2: Maison de la Culture;SEM:2010;1660324118;0;13
+2022-08-12;SEM:A;Victor Hugo;Grenoble, MC2: Maison de la Culture;SEM:2010;1660325318;0;20
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Mounier;SEM:2012;1660324254;0;13
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Hubert Dubedout - Maison du Tourisme;SEM:2020;1660324761;0;13
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Hubert Dubedout - Maison du Tourisme;SEM:2020;1660325361;0;8
+2022-08-12;SEM:A;L'Etoile;Le Pont-de-Claix, Edmée Chandon;SEM:4382;1660324291;0;51
+2022-08-12;SEM:A;L'Etoile;Le Pont-de-Claix, Edmée Chandon;SEM:4382;1660325491;0;134
+2022-08-12;SEM:A;L'Etoile;Grenoble, Hubert Dubedout - Maison du Tourisme;SEM:2021;1660325370;0;1
+2022-08-12;SEM:A;L'Etoile;Échirolles, Surieux;SEM:2065;1660325448;0;1
+2022-08-12;SEM:A;L'Etoile;Échirolles, Denis Papin;SEM:2075;1660325340;0;110
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Marie Curie;SEM:2070;1660325489;0;11
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Mounier;SEM:2012;1660323654;0;106
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Albert 1er de Belgique;SEM:2014;1660323720;0;105
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Verdun - Préfecture;SEM:2018;1660324020;0;105
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Hubert Dubedout - Maison du Tourisme;SEM:2020;1660324161;0;106
+2022-08-12;SEM:A;L'Etoile;Le Pont-de-Claix, Edmée Chandon;SEM:4382;1660325472;0;110
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Ismier, Bois Français;SEM:0020;1660326600;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Chenevières;SEM:0521;1660324320;0;80
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Chenevières;SEM:0521;1660327080;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Les Vernes;SEM:1161;1660324454;0;81
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Les Vernes;SEM:1161;1660326194;0;1
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Les Vernes;SEM:1161;1660327214;0;1
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Le Prieuré;SEM:0522;1660324495;0;81
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Le Prieuré;SEM:0522;1660327255;0;1
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Domène Mairie;SEM:0037;1660324560;0;81
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Domène Mairie;SEM:0037;1660325340;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Coubertin;SEM:1770;1660324598;0;81
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Coubertin;SEM:1770;1660326338;0;1
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Coubertin;SEM:1770;1660325379;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Domène, L'Oratoire;SEM:0107;1660324632;0;81
+2022-08-12;SEM:15;Verdun Prefect.;Domène, L'Oratoire;SEM:0107;1660325414;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Les Mortes;SEM:0038;1660324686;0;81
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Les Mortes;SEM:0038;1660325469;0;1
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Les Rivets;SEM:0528;1660324731;0;81
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Les Rivets;SEM:0528;1660325511;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, La Briot;SEM:1532;1660324783;0;82
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, La Briot;SEM:1532;1660326523;0;2
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, La Briot;SEM:1532;1660325563;0;1
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Le Bourg;SEM:0530;1660324815;0;81
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Le Bourg;SEM:0530;1660325595;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Gières, La Perrière;SEM:0040;1660324105;0;54
+2022-08-12;SEM:15;Verdun Prefect.;Gières, La Perrière;SEM:0040;1660325665;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Gières, La Perrière;SEM:0040;1660324885;0;81
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Le Japin;SEM:0042;1660324140;0;54
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Le Japin;SEM:0042;1660325700;0;10
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Le Japin;SEM:0042;1660324920;0;81
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Champrondet;SEM:0043;1660324192;0;54
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Champrondet;SEM:0043;1660325752;0;10
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Champrondet;SEM:0043;1660324972;0;81
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Pied de Gières;SEM:0044;1660324247;0;54
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Pied de Gières;SEM:0044;1660325807;0;10
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Pied de Gières;SEM:0044;1660325027;0;81
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Place de la République;SEM:1566;1660324320;0;53
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Place de la République;SEM:1566;1660325880;0;-1
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Place de la République;SEM:1566;1660325100;0;80
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Edelweiss;SEM:0333;1660324393;0;54
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Edelweiss;SEM:0333;1660325962;0;-10
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Edelweiss;SEM:0333;1660325174;0;81
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Le Sonnant;SEM:0215;1660324464;0;54
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Le Sonnant;SEM:0215;1660326042;0;-10
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Le Sonnant;SEM:0215;1660325247;0;80
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1863;1660324554;0;54
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1863;1660326143;0;-10
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1863;1660325338;0;80
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Champ Roman;SEM:1550;1660324692;0;54
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Champ Roman;SEM:1550;1660326259;0;-2
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Champ Roman;SEM:1550;1660325472;0;110
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0910;1660324800;0;45
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0910;1660326360;0;-9
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0910;1660325580;0;80
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0911;1660324891;0;45
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0911;1660325675;0;81
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0912;1660324232;0;-7
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0912;1660325792;0;81
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0912;1660325002;0;45
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Flandrin - Valmy;SEM:4025;1660324440;0;-42
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Flandrin - Valmy;SEM:4025;1660326000;0;59
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Flandrin - Valmy;SEM:4025;1660325220;0;25
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Bir Hakeim;SEM:0785;1660324616;0;-42
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Bir Hakeim;SEM:0785;1660325396;0;25
+2022-08-12;SEM:15;Bois Francais;Grenoble, Verdun - Préfecture;SEM:4027;1660323960;0;246
+2022-08-12;SEM:15;Bois Francais;Grenoble, Verdun - Préfecture;SEM:4027;1660325520;0;25
+2022-08-12;SEM:15;Chenevieres;Grenoble, Verdun - Préfecture;SEM:4027;1660324740;0;16
+2022-08-12;SEM:15;Bois Francais;Grenoble, Bir Hakeim;SEM:0786;1660324067;0;247
+2022-08-12;SEM:15;Bois Francais;Grenoble, Bir Hakeim;SEM:0786;1660325627;0;26
+2022-08-12;SEM:15;Chenevieres;Grenoble, Bir Hakeim;SEM:0786;1660324846;0;16
+2022-08-12;SEM:15;Bois Francais;Grenoble, Flandrin - Valmy;SEM:4026;1660324260;0;246
+2022-08-12;SEM:15;Bois Francais;Grenoble, Flandrin - Valmy;SEM:4026;1660325820;0;25
+2022-08-12;SEM:15;Chenevieres;Grenoble, Flandrin - Valmy;SEM:4026;1660325040;0;12
+2022-08-12;SEM:15;Bois Francais;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0537;1660324438;0;247
+2022-08-12;SEM:15;Bois Francais;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0537;1660325982;0;26
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0537;1660325230;0;12
+2022-08-12;SEM:15;Bois Francais;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0536;1660324515;0;247
+2022-08-12;SEM:15;Bois Francais;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0536;1660326052;0;26
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0536;1660325295;0;-3
+2022-08-12;SEM:15;Bois Francais;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0909;1660324620;0;210
+2022-08-12;SEM:15;Bois Francais;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0909;1660326120;0;34
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0909;1660325400;0;-25
+2022-08-12;SEM:15;Bois Francais;Saint-Martin-d'Hères, Champ Roman;SEM:1277;1660324773;0;214
+2022-08-12;SEM:15;Bois Francais;Saint-Martin-d'Hères, Champ Roman;SEM:1277;1660326273;0;34
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Champ Roman;SEM:1277;1660325565;0;-25
+2022-08-12;SEM:15;Bois Francais;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1864;1660324963;0;214
+2022-08-12;SEM:15;Bois Francais;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1864;1660326463;0;52
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1864;1660325743;0;-20
+2022-08-12;SEM:15;Chenevieres;Gières, Le Sonnant;SEM:0533;1660324277;0;-117
+2022-08-12;SEM:15;Chenevieres;Gières, Le Sonnant;SEM:0533;1660325837;0;-20
+2022-08-12;SEM:15;Bois Francais;Gières, Le Sonnant;SEM:0533;1660325057;0;226
+2022-08-12;SEM:15;Chenevieres;Gières, Edelweiss;SEM:0334;1660324398;0;-117
+2022-08-12;SEM:15;Chenevieres;Gières, Edelweiss;SEM:0334;1660325958;0;-20
+2022-08-12;SEM:15;Bois Francais;Gières, Edelweiss;SEM:0334;1660325178;0;288
+2022-08-12;SEM:15;Chenevieres;Gières, Place de la République;SEM:1565;1660324500;0;-118
+2022-08-12;SEM:15;Chenevieres;Gières, Place de la République;SEM:1565;1660326060;0;-21
+2022-08-12;SEM:15;Bois Francais;Gières, Place de la République;SEM:1565;1660325280;0;210
+2022-08-12;SEM:15;Chenevieres;Gières, Pied de Gières;SEM:0045;1660324559;0;-118
+2022-08-12;SEM:15;Chenevieres;Gières, Pied de Gières;SEM:0045;1660326119;0;-21
+2022-08-12;SEM:15;Bois Francais;Gières, Pied de Gières;SEM:0045;1660325339;0;225
+2022-08-12;SEM:15;Chenevieres;Gières, Champrondet;SEM:0331;1660324606;0;-118
+2022-08-12;SEM:15;Chenevieres;Gières, Champrondet;SEM:0331;1660326166;0;-21
+2022-08-12;SEM:15;Bois Francais;Gières, Champrondet;SEM:0331;1660325386;0;225
+2022-08-12;SEM:15;Chenevieres;Gières, Le Japin;SEM:1045;1660324680;0;-140
+2022-08-12;SEM:15;Chenevieres;Gières, Le Japin;SEM:1045;1660326240;0;-43
+2022-08-12;SEM:15;Bois Francais;Gières, Le Japin;SEM:1045;1660325460;0;203
+2022-08-12;SEM:15;Chenevieres;Murianette, La Perrière;SEM:0041;1660324726;0;-140
+2022-08-12;SEM:15;Chenevieres;Murianette, La Perrière;SEM:0041;1660326286;0;-43
+2022-08-12;SEM:15;Bois Francais;Murianette, La Perrière;SEM:0041;1660325506;0;203
+2022-08-12;SEM:15;Chenevieres;Murianette, Le Bourg;SEM:0039;1660324781;0;-140
+2022-08-12;SEM:15;Chenevieres;Murianette, Le Bourg;SEM:0039;1660326341;0;-43
+2022-08-12;SEM:15;Bois Francais;Murianette, Le Bourg;SEM:0039;1660325561;0;203
+2022-08-12;SEM:15;Chenevieres;Murianette, La Briot;SEM:1531;1660324822;0;-139
+2022-08-12;SEM:15;Chenevieres;Murianette, La Briot;SEM:1531;1660326382;0;-42
+2022-08-12;SEM:15;Bois Francais;Murianette, La Briot;SEM:1531;1660325602;0;204
+2022-08-12;SEM:15;Chenevieres;Murianette, Les Rivets;SEM:0529;1660324871;0;-140
+2022-08-12;SEM:15;Bois Francais;Murianette, Les Rivets;SEM:0529;1660325651;0;203
+2022-08-12;SEM:15;Chenevieres;Domène, Les Mortes;SEM:0527;1660324916;0;-139
+2022-08-12;SEM:15;Bois Francais;Domène, Les Mortes;SEM:0527;1660325696;0;204
+2022-08-12;SEM:15;Bois Francais;Domène, L'Oratoire;SEM:0526;1660324185;0;-10
+2022-08-12;SEM:15;Bois Francais;Domène, L'Oratoire;SEM:0526;1660325745;0;204
+2022-08-12;SEM:15;Chenevieres;Domène, L'Oratoire;SEM:0526;1660324965;0;-139
+2022-08-12;SEM:15;Bois Francais;Domène, Coubertin;SEM:1771;1660324227;0;-10
+2022-08-12;SEM:15;Bois Francais;Domène, Coubertin;SEM:1771;1660325787;0;204
+2022-08-12;SEM:15;Chenevieres;Domène, Coubertin;SEM:1771;1660325007;0;-139
+2022-08-12;SEM:15;Bois Francais;Domène, Domène Mairie;SEM:1278;1660324260;0;-14
+2022-08-12;SEM:15;Bois Francais;Domène, Domène Mairie;SEM:1278;1660325820;0;204
+2022-08-12;SEM:15;Chenevieres;Domène, Domène Mairie;SEM:1278;1660325040;0;-139
+2022-08-12;SEM:15;Chenevieres;Domène, Le Prieuré;SEM:0523;1660325095;0;-138
+2022-08-12;SEM:15;Chenevieres;Domène, Le Prieuré;SEM:0523;1660326655;0;-41
+2022-08-12;SEM:15;Chenevieres;Domène, Les Vernes;SEM:1160;1660325143;0;-139
+2022-08-12;SEM:15;Chenevieres;Domène, Les Vernes;SEM:1160;1660326703;0;-42
+2022-08-12;SEM:15;Bois Francais;Domène, René Cassin;SEM:1081;1660324345;0;-9
+2022-08-12;SEM:15;Bois Francais;Domène, René Cassin;SEM:1081;1660325905;0;205
+2022-08-12;SEM:15;Bois Francais;Domène, René Cassin;SEM:1081;1660327405;0;12
+2022-08-12;SEM:15;Bois Francais;Domène, Les Arnauds;SEM:0525;1660324440;0;-14
+2022-08-12;SEM:15;Bois Francais;Domène, Les Arnauds;SEM:0525;1660326000;0;204
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Les Arnauds;SEM:0525;1660325160;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Domène, René Cassin;SEM:1080;1660325230;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Ismier, Bois Français;SEM:0020;1660325580;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Chenevières;SEM:0521;1660326060;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Les Vernes;SEM:1161;1660324454;0;123
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Le Prieuré;SEM:0522;1660326235;0;1
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Domène Mairie;SEM:0037;1660326300;0;1
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Coubertin;SEM:1770;1660324598;0;123
+2022-08-12;SEM:15;Verdun Prefect.;Domène, L'Oratoire;SEM:0107;1660326372;0;1
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Les Mortes;SEM:0038;1660326426;0;1
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Les Rivets;SEM:0528;1660326471;0;1
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, La Briot;SEM:1532;1660324783;0;124
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Place de la République;SEM:1566;1660325100;0;115
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1863;1660325334;0;123
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0912;1660324222;0;35
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Flandrin - Valmy;SEM:4025;1660324440;0;15
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Bir Hakeim;SEM:0785;1660324616;0;15
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Bir Hakeim;SEM:0785;1660326176;0;94
+2022-08-12;SEM:15;Chenevieres;Murianette, Les Rivets;SEM:0529;1660326431;0;-28
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Chenevières;SEM:0521;1660324320;0;115
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Le Prieuré;SEM:0522;1660324495;0;123
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Domène Mairie;SEM:0037;1660324560;0;116
+2022-08-12;SEM:15;Verdun Prefect.;Domène, L'Oratoire;SEM:0107;1660324632;0;123
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Les Mortes;SEM:0038;1660324686;0;123
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Les Rivets;SEM:0528;1660324731;0;116
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Le Bourg;SEM:0530;1660324815;0;123
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Le Bourg;SEM:0530;1660326555;0;1
+2022-08-12;SEM:15;Verdun Prefect.;Gières, La Perrière;SEM:0040;1660324885;0;123
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Le Japin;SEM:0042;1660324920;0;116
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Champrondet;SEM:0043;1660324972;0;123
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Pied de Gières;SEM:0044;1660325027;0;123
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Edelweiss;SEM:0333;1660325173;0;123
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Le Sonnant;SEM:0215;1660325244;0;123
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Flandrin - Valmy;SEM:4025;1660326000;0;89
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Ismier, Bois Français;SEM:0020;1660333920;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Chenevières;SEM:0521;1660334400;0;-24
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Les Vernes;SEM:1161;1660334534;0;1
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Le Prieuré;SEM:0522;1660334575;0;1
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Domène Mairie;SEM:0037;1660334640;0;1
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Coubertin;SEM:1770;1660334678;0;1
+2022-08-12;SEM:15;Verdun Prefect.;Domène, L'Oratoire;SEM:0107;1660334712;0;1
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Les Mortes;SEM:0038;1660334766;0;1
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Les Rivets;SEM:0528;1660334811;0;1
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, La Briot;SEM:1532;1660334863;0;2
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Le Bourg;SEM:0530;1660334895;0;1
+2022-08-12;SEM:15;Verdun Prefect.;Gières, La Perrière;SEM:0040;1660334965;0;1
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Le Japin;SEM:0042;1660335000;0;-23
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Champrondet;SEM:0043;1660335052;0;-23
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0912;1660331612;0;39
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Flandrin - Valmy;SEM:4025;1660331820;0;38
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Bir Hakeim;SEM:0785;1660331996;0;38
+2022-08-12;SEM:15;Chenevieres;Grenoble, Verdun - Préfecture;SEM:4027;1660332120;0;38
+2022-08-12;SEM:15;Chenevieres;Grenoble, Bir Hakeim;SEM:0786;1660332227;0;30
+2022-08-12;SEM:15;Chenevieres;Grenoble, Flandrin - Valmy;SEM:4026;1660332420;0;29
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0537;1660332578;0;30
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0536;1660332646;0;29
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0909;1660332720;0;30
+2022-08-12;SEM:15;Bois Francais;Saint-Martin-d'Hères, Champ Roman;SEM:1277;1660331645;0;32
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Champ Roman;SEM:1277;1660332831;0;31
+2022-08-12;SEM:15;Bois Francais;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1864;1660331800;0;11
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1864;1660332969;0;31
+2022-08-12;SEM:15;Bois Francais;Gières, Le Sonnant;SEM:0533;1660331877;0;-6
+2022-08-12;SEM:15;Chenevieres;Gières, Le Sonnant;SEM:0533;1660333038;0;30
+2022-08-12;SEM:15;Bois Francais;Gières, Edelweiss;SEM:0334;1660331977;0;-16
+2022-08-12;SEM:15;Chenevieres;Gières, Edelweiss;SEM:0334;1660333126;0;30
+2022-08-12;SEM:15;Bois Francais;Gières, Place de la République;SEM:1565;1660332060;0;31
+2022-08-12;SEM:15;Chenevieres;Gières, Place de la République;SEM:1565;1660333200;0;30
+2022-08-12;SEM:15;Bois Francais;Gières, Pied de Gières;SEM:0045;1660332127;0;-16
+2022-08-12;SEM:15;Chenevieres;Gières, Pied de Gières;SEM:0045;1660333267;0;30
+2022-08-12;SEM:15;Bois Francais;Gières, Champrondet;SEM:0331;1660332180;0;-15
+2022-08-12;SEM:15;Chenevieres;Gières, Champrondet;SEM:0331;1660333320;0;31
+2022-08-12;SEM:15;Bois Francais;Gières, Le Japin;SEM:1045;1660332240;0;31
+2022-08-12;SEM:15;Chenevieres;Gières, Le Japin;SEM:1045;1660333380;0;30
+2022-08-12;SEM:15;Bois Francais;Murianette, La Perrière;SEM:0041;1660332286;0;-16
+2022-08-12;SEM:15;Chenevieres;Murianette, La Perrière;SEM:0041;1660333426;0;30
+2022-08-12;SEM:15;Bois Francais;Murianette, Le Bourg;SEM:0039;1660332341;0;-16
+2022-08-12;SEM:15;Chenevieres;Murianette, Le Bourg;SEM:0039;1660333481;0;30
+2022-08-12;SEM:15;Bois Francais;Murianette, La Briot;SEM:1531;1660332382;0;32
+2022-08-12;SEM:15;Chenevieres;Murianette, La Briot;SEM:1531;1660333522;0;31
+2022-08-12;SEM:15;Bois Francais;Murianette, Les Rivets;SEM:0529;1660332431;0;-16
+2022-08-12;SEM:15;Chenevieres;Murianette, Les Rivets;SEM:0529;1660333571;0;30
+2022-08-12;SEM:15;Bois Francais;Domène, Les Mortes;SEM:0527;1660332476;0;-15
+2022-08-12;SEM:15;Chenevieres;Domène, Les Mortes;SEM:0527;1660333616;0;31
+2022-08-12;SEM:15;Bois Francais;Domène, L'Oratoire;SEM:0526;1660332525;0;32
+2022-08-12;SEM:15;Chenevieres;Domène, L'Oratoire;SEM:0526;1660333665;0;31
+2022-08-12;SEM:15;Bois Francais;Domène, Coubertin;SEM:1771;1660332567;0;32
+2022-08-12;SEM:15;Chenevieres;Domène, Coubertin;SEM:1771;1660333707;0;31
+2022-08-12;SEM:15;Chenevieres;Domène, Domène Mairie;SEM:1278;1660331640;0;-28
+2022-08-12;SEM:15;Chenevieres;Domène, Domène Mairie;SEM:1278;1660333740;0;31
+2022-08-12;SEM:15;Bois Francais;Domène, Domène Mairie;SEM:1278;1660332600;0;32
+2022-08-12;SEM:15;Chenevieres;Domène, Le Prieuré;SEM:0523;1660331695;0;-36
+2022-08-12;SEM:15;Chenevieres;Domène, Le Prieuré;SEM:0523;1660333795;0;32
+2022-08-12;SEM:15;Chenevieres;Domène, Les Vernes;SEM:1160;1660331743;0;-37
+2022-08-12;SEM:15;Chenevieres;Domène, Les Vernes;SEM:1160;1660333843;0;31
+2022-08-12;SEM:15;Bois Francais;Domène, René Cassin;SEM:1081;1660332685;0;33
+2022-08-12;SEM:15;Bois Francais;Domène, Les Arnauds;SEM:0525;1660332780;0;32
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1863;1660332409;0;3
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Flandrin - Valmy;SEM:4025;1660333020;0;-16
+2022-08-12;SEM:15;Les Arnauds;Grenoble, Verdun - Préfecture;SEM:4027;1660333320;0;0
+2022-08-12;SEM:15;Les Arnauds;Grenoble, Flandrin - Valmy;SEM:4026;1660333620;0;0
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Champ Roman;SEM:1277;1660332831;0;-12
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Champ Roman;SEM:1277;1660334031;0;-23
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1864;1660332969;0;-12
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1864;1660334169;0;-23
+2022-08-12;SEM:15;Bois Francais;Gières, Le Sonnant;SEM:0533;1660331877;0;32
+2022-08-12;SEM:15;Bois Francais;Gières, Edelweiss;SEM:0334;1660331977;0;31
+2022-08-12;SEM:15;Chenevieres;Gières, Place de la République;SEM:1565;1660333200;0;-12
+2022-08-12;SEM:15;Les Arnauds;Gières, Place de la République;SEM:1565;1660334400;0;-24
+2022-08-12;SEM:15;Bois Francais;Gières, Pied de Gières;SEM:0045;1660332127;0;31
+2022-08-12;SEM:15;Bois Francais;Gières, Champrondet;SEM:0331;1660332180;0;32
+2022-08-12;SEM:15;Bois Francais;Murianette, La Perrière;SEM:0041;1660332286;0;31
+2022-08-12;SEM:15;Bois Francais;Murianette, Le Bourg;SEM:0039;1660332341;0;31
+2022-08-12;SEM:15;Chenevieres;Murianette, La Briot;SEM:1531;1660333522;0;-11
+2022-08-12;SEM:15;Les Arnauds;Murianette, La Briot;SEM:1531;1660334722;0;-23
+2022-08-12;SEM:15;Bois Francais;Murianette, Les Rivets;SEM:0529;1660332431;0;31
+2022-08-12;SEM:15;Bois Francais;Domène, Les Mortes;SEM:0527;1660332476;0;32
+2022-08-12;SEM:15;Chenevieres;Domène, Coubertin;SEM:1771;1660333707;0;-11
+2022-08-12;SEM:15;Chenevieres;Domène, Domène Mairie;SEM:1278;1660333740;0;-11
+2022-08-12;SEM:15;Chenevieres;Domène, Les Vernes;SEM:1160;1660333843;0;-11
+2022-08-12;SEM:15;Les Arnauds;Domène, René Cassin;SEM:1081;1660335025;0;-22
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Coubertin;SEM:1770;1660331678;0;2
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Les Mortes;SEM:0038;1660331766;0;2
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Les Rivets;SEM:0528;1660331811;0;2
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, La Briot;SEM:1532;1660331863;0;3
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Le Bourg;SEM:0530;1660331895;0;2
+2022-08-12;SEM:15;Verdun Prefect.;Gières, La Perrière;SEM:0040;1660331965;0;2
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Le Japin;SEM:0042;1660332000;0;2
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Champrondet;SEM:0043;1660332052;0;2
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Pied de Gières;SEM:0044;1660332107;0;2
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Pied de Gières;SEM:0044;1660335107;0;-23
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Place de la République;SEM:1566;1660332180;0;2
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Edelweiss;SEM:0333;1660332252;0;2
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Le Sonnant;SEM:0215;1660332321;0;3
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Champ Roman;SEM:1550;1660332545;0;2
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0910;1660332660;0;-16
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0911;1660332742;0;-16
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0912;1660332842;0;-16
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Bir Hakeim;SEM:0785;1660333196;0;-16
+2022-08-12;SEM:15;Les Arnauds;Grenoble, Bir Hakeim;SEM:0786;1660333427;0;1
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0537;1660332565;0;12
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0537;1660333765;0;1
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0536;1660332628;0;11
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0536;1660333828;0;0
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0909;1660332720;0;-13
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0909;1660333920;0;-24
+2022-08-12;SEM:15;Chenevieres;Gières, Le Sonnant;SEM:0533;1660333038;0;-12
+2022-08-12;SEM:15;Les Arnauds;Gières, Le Sonnant;SEM:0533;1660334238;0;-24
+2022-08-12;SEM:15;Chenevieres;Gières, Edelweiss;SEM:0334;1660333126;0;-12
+2022-08-12;SEM:15;Les Arnauds;Gières, Edelweiss;SEM:0334;1660334326;0;-24
+2022-08-12;SEM:15;Chenevieres;Gières, Pied de Gières;SEM:0045;1660333267;0;-12
+2022-08-12;SEM:15;Les Arnauds;Gières, Pied de Gières;SEM:0045;1660334467;0;-24
+2022-08-12;SEM:15;Chenevieres;Gières, Champrondet;SEM:0331;1660333320;0;-11
+2022-08-12;SEM:15;Les Arnauds;Gières, Champrondet;SEM:0331;1660334520;0;-23
+2022-08-12;SEM:15;Chenevieres;Gières, Le Japin;SEM:1045;1660333380;0;-12
+2022-08-12;SEM:15;Les Arnauds;Gières, Le Japin;SEM:1045;1660334580;0;-24
+2022-08-12;SEM:15;Chenevieres;Murianette, La Perrière;SEM:0041;1660333426;0;-12
+2022-08-12;SEM:15;Les Arnauds;Murianette, La Perrière;SEM:0041;1660334626;0;-24
+2022-08-12;SEM:15;Chenevieres;Murianette, Le Bourg;SEM:0039;1660333481;0;-12
+2022-08-12;SEM:15;Les Arnauds;Murianette, Le Bourg;SEM:0039;1660334681;0;-24
+2022-08-12;SEM:15;Chenevieres;Murianette, Les Rivets;SEM:0529;1660333571;0;-12
+2022-08-12;SEM:15;Les Arnauds;Murianette, Les Rivets;SEM:0529;1660334771;0;-24
+2022-08-12;SEM:15;Chenevieres;Domène, Les Mortes;SEM:0527;1660333616;0;-11
+2022-08-12;SEM:15;Les Arnauds;Domène, Les Mortes;SEM:0527;1660334816;0;-23
+2022-08-12;SEM:15;Chenevieres;Domène, L'Oratoire;SEM:0526;1660333665;0;-11
+2022-08-12;SEM:15;Les Arnauds;Domène, L'Oratoire;SEM:0526;1660334865;0;-23
+2022-08-12;SEM:15;Chenevieres;Domène, Le Prieuré;SEM:0523;1660333795;0;-10
+2022-08-12;SEM:15;Verdun Prefect.;Domène, L'Oratoire;SEM:0107;1660331712;0;2
+2022-08-12;SEM:15;Chenevieres;Domène, Le Prieuré;SEM:0523;1660331695;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Les Vernes;SEM:1161;1660334521;0;-23
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Coubertin;SEM:1770;1660334678;0;-46
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, La Briot;SEM:1532;1660334863;0;-45
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Place de la République;SEM:1566;1660335180;0;-46
+2022-08-12;SEM:15;Chenevieres;Domène, Les Vernes;SEM:1160;1660331743;0;19
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Le Prieuré;SEM:0522;1660334558;0;-23
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Domène Mairie;SEM:0037;1660334640;0;-46
+2022-08-12;SEM:15;Verdun Prefect.;Domène, L'Oratoire;SEM:0107;1660334712;0;-46
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Les Mortes;SEM:0038;1660334766;0;-46
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Les Rivets;SEM:0528;1660334811;0;-46
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, La Briot;SEM:1532;1660331863;0;26
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Le Bourg;SEM:0530;1660334895;0;-46
+2022-08-12;SEM:15;Verdun Prefect.;Gières, La Perrière;SEM:0040;1660334965;0;-46
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Place de la République;SEM:1566;1660332180;0;25
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Edelweiss;SEM:0333;1660335247;0;-46
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1863;1660332409;0;26
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Champ Roman;SEM:1550;1660332545;0;25
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Flandrin - Valmy;SEM:4025;1660333020;0;7
+2022-08-12;SEM:15;Les Arnauds;Grenoble, Verdun - Préfecture;SEM:4027;1660333320;0;7
+2022-08-12;SEM:15;Les Arnauds;Grenoble, Bir Hakeim;SEM:0786;1660333427;0;8
+2022-08-12;SEM:15;Les Arnauds;Grenoble, Flandrin - Valmy;SEM:4026;1660333620;0;7
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0537;1660333765;0;8
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0536;1660333828;0;7
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0909;1660333920;0;-17
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Champ Roman;SEM:1277;1660334031;0;-16
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1864;1660334169;0;-16
+2022-08-12;SEM:15;Bois Francais;Gières, Le Sonnant;SEM:0533;1660331877;0;-18
+2022-08-12;SEM:15;Les Arnauds;Gières, Le Sonnant;SEM:0533;1660334238;0;-17
+2022-08-12;SEM:15;Bois Francais;Gières, Place de la République;SEM:1565;1660332060;0;-21
+2022-08-12;SEM:15;Les Arnauds;Gières, Place de la République;SEM:1565;1660334400;0;-17
+2022-08-12;SEM:15;Bois Francais;Gières, Le Japin;SEM:1045;1660332240;0;-21
+2022-08-12;SEM:15;Les Arnauds;Gières, Le Japin;SEM:1045;1660334580;0;-17
+2022-08-12;SEM:15;Bois Francais;Murianette, Le Bourg;SEM:0039;1660332342;0;-20
+2022-08-12;SEM:15;Les Arnauds;Murianette, Le Bourg;SEM:0039;1660334681;0;-17
+2022-08-12;SEM:15;Bois Francais;Murianette, La Briot;SEM:1531;1660332384;0;-20
+2022-08-12;SEM:15;Les Arnauds;Murianette, La Briot;SEM:1531;1660334722;0;-16
+2022-08-12;SEM:15;Bois Francais;Murianette, Les Rivets;SEM:0529;1660332433;0;-20
+2022-08-12;SEM:15;Les Arnauds;Murianette, Les Rivets;SEM:0529;1660334771;0;-17
+2022-08-12;SEM:15;Bois Francais;Domène, Les Mortes;SEM:0527;1660332480;0;-21
+2022-08-12;SEM:15;Les Arnauds;Domène, Les Mortes;SEM:0527;1660334816;0;-16
+2022-08-12;SEM:15;Bois Francais;Domène, L'Oratoire;SEM:0526;1660332529;0;-20
+2022-08-12;SEM:15;Les Arnauds;Domène, L'Oratoire;SEM:0526;1660334865;0;-16
+2022-08-12;SEM:15;Bois Francais;Domène, Coubertin;SEM:1771;1660332571;0;-20
+2022-08-12;SEM:15;Les Arnauds;Domène, Coubertin;SEM:1771;1660334907;0;-16
+2022-08-12;SEM:15;Bois Francais;Domène, Domène Mairie;SEM:1278;1660332600;0;-16
+2022-08-12;SEM:15;Les Arnauds;Domène, Domène Mairie;SEM:1278;1660334940;0;-16
+2022-08-12;SEM:15;Chenevieres;Domène, Le Prieuré;SEM:0523;1660331695;0;37
+2022-08-12;SEM:15;Bois Francais;Domène, René Cassin;SEM:1081;1660332685;0;-15
+2022-08-12;SEM:15;Les Arnauds;Domène, René Cassin;SEM:1081;1660335025;0;-15
+2022-08-12;SEM:15;Bois Francais;Domène, Les Arnauds;SEM:0525;1660332780;0;-16
+2022-08-12;SEM:15;Verdun Prefect.;Domène, L'Oratoire;SEM:0107;1660331712;0;25
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Les Mortes;SEM:0038;1660331766;0;25
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Les Rivets;SEM:0528;1660331811;0;25
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Le Bourg;SEM:0530;1660331895;0;25
+2022-08-12;SEM:15;Verdun Prefect.;Gières, La Perrière;SEM:0040;1660331965;0;25
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Le Japin;SEM:0042;1660332000;0;25
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Champrondet;SEM:0043;1660332052;0;25
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Pied de Gières;SEM:0044;1660332107;0;25
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Edelweiss;SEM:0333;1660332252;0;25
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Le Sonnant;SEM:0215;1660332321;0;26
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0910;1660332660;0;7
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0911;1660332742;0;7
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0912;1660332842;0;7
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Flandrin - Valmy;SEM:4025;1660331820;0;-16
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Bir Hakeim;SEM:0785;1660333196;0;7
+2022-08-12;SEM:15;Chenevieres;Grenoble, Verdun - Préfecture;SEM:4027;1660332120;0;0
+2022-08-12;SEM:15;Bois Francais;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1864;1660331800;0;-42
+2022-08-12;SEM:15;Bois Francais;Gières, Edelweiss;SEM:0334;1660331977;0;-20
+2022-08-12;SEM:15;Les Arnauds;Gières, Edelweiss;SEM:0334;1660334326;0;-17
+2022-08-12;SEM:15;Bois Francais;Gières, Pied de Gières;SEM:0045;1660332127;0;-21
+2022-08-12;SEM:15;Les Arnauds;Gières, Pied de Gières;SEM:0045;1660334467;0;-17
+2022-08-12;SEM:15;Bois Francais;Gières, Champrondet;SEM:0331;1660332180;0;-20
+2022-08-12;SEM:15;Les Arnauds;Gières, Champrondet;SEM:0331;1660334520;0;-16
+2022-08-12;SEM:15;Bois Francais;Murianette, La Perrière;SEM:0041;1660332286;0;-20
+2022-08-12;SEM:15;Les Arnauds;Murianette, La Perrière;SEM:0041;1660334626;0;-17
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Les Vernes;SEM:1161;1660334528;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Le Prieuré;SEM:0522;1660334567;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Domène Mairie;SEM:0037;1660334640;0;-11
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Coubertin;SEM:1770;1660334678;0;-11
+2022-08-12;SEM:15;Verdun Prefect.;Domène, L'Oratoire;SEM:0107;1660334712;0;-11
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Les Mortes;SEM:0038;1660334766;0;-11
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Les Rivets;SEM:0528;1660334811;0;-11
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, La Briot;SEM:1532;1660334863;0;-10
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Le Bourg;SEM:0530;1660334895;0;-11
+2022-08-12;SEM:15;Verdun Prefect.;Gières, La Perrière;SEM:0040;1660334965;0;-11
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Place de la République;SEM:1566;1660335180;0;-11
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Edelweiss;SEM:0333;1660335245;0;-10
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Bir Hakeim;SEM:0785;1660331996;0;-16
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Champ Roman;SEM:1277;1660334031;0;34
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1864;1660334169;0;33
+2022-08-12;SEM:15;Les Arnauds;Gières, Place de la République;SEM:1565;1660334400;0;31
+2022-08-12;SEM:15;Les Arnauds;Murianette, La Briot;SEM:1531;1660334724;0;32
+2022-08-12;SEM:15;Les Arnauds;Domène, Coubertin;SEM:1771;1660334911;0;32
+2022-08-12;SEM:15;Les Arnauds;Domène, Domène Mairie;SEM:1278;1660334940;0;36
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0537;1660333778;0;34
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0536;1660333846;0;34
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0909;1660333920;0;34
+2022-08-12;SEM:15;Les Arnauds;Gières, Le Sonnant;SEM:0533;1660334238;0;32
+2022-08-12;SEM:15;Les Arnauds;Gières, Edelweiss;SEM:0334;1660334326;0;32
+2022-08-12;SEM:15;Les Arnauds;Gières, Pied de Gières;SEM:0045;1660334467;0;31
+2022-08-12;SEM:15;Les Arnauds;Gières, Champrondet;SEM:0331;1660334520;0;32
+2022-08-12;SEM:15;Les Arnauds;Gières, Le Japin;SEM:1045;1660334580;0;31
+2022-08-12;SEM:15;Les Arnauds;Murianette, La Perrière;SEM:0041;1660334626;0;32
+2022-08-12;SEM:15;Les Arnauds;Murianette, Le Bourg;SEM:0039;1660334682;0;32
+2022-08-12;SEM:15;Les Arnauds;Murianette, Les Rivets;SEM:0529;1660334773;0;32
+2022-08-12;SEM:15;Les Arnauds;Domène, Les Mortes;SEM:0527;1660334820;0;31
+2022-08-12;SEM:15;Les Arnauds;Domène, L'Oratoire;SEM:0526;1660334869;0;32
+2022-08-12;SEM:15;Les Arnauds;Domène, René Cassin;SEM:1081;1660335025;0;37
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Le Sonnant;SEM:0215;1660335308;0;-10
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Chenevières;SEM:0521;1660334400;0;69
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Les Vernes;SEM:1161;1660334534;0;69
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Le Prieuré;SEM:0522;1660334575;0;68
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Domène Mairie;SEM:0037;1660334640;0;67
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Domène Mairie;SEM:0037;1660336440;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Coubertin;SEM:1770;1660334678;0;67
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Coubertin;SEM:1770;1660336478;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Domène, L'Oratoire;SEM:0107;1660334712;0;67
+2022-08-12;SEM:15;Verdun Prefect.;Domène, L'Oratoire;SEM:0107;1660336512;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Les Mortes;SEM:0038;1660334766;0;67
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Les Mortes;SEM:0038;1660336566;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Les Rivets;SEM:0528;1660334811;0;67
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Les Rivets;SEM:0528;1660336611;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, La Briot;SEM:1532;1660334863;0;68
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, La Briot;SEM:1532;1660336663;0;1
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Le Bourg;SEM:0530;1660334895;0;67
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Le Bourg;SEM:0530;1660336695;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Gières, La Perrière;SEM:0040;1660334965;0;67
+2022-08-12;SEM:15;Verdun Prefect.;Gières, La Perrière;SEM:0040;1660336765;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Le Japin;SEM:0042;1660335000;0;67
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Le Japin;SEM:0042;1660336800;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Champrondet;SEM:0043;1660335052;0;67
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Champrondet;SEM:0043;1660336852;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Pied de Gières;SEM:0044;1660335107;0;67
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Pied de Gières;SEM:0044;1660336907;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Place de la République;SEM:1566;1660335180;0;67
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Place de la République;SEM:1566;1660336980;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Edelweiss;SEM:0333;1660335245;0;68
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Edelweiss;SEM:0333;1660337048;0;-2
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Le Sonnant;SEM:0215;1660335308;0;68
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Le Sonnant;SEM:0215;1660337115;0;-6
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1863;1660335388;0;68
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1863;1660337198;0;-9
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Champ Roman;SEM:1550;1660335527;0;83
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Champ Roman;SEM:1550;1660337327;0;-15
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0910;1660335600;0;102
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0910;1660337400;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0911;1660335682;0;102
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0911;1660337468;0;1
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0912;1660334222;0;36
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0912;1660337551;0;1
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0912;1660335782;0;101
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Flandrin - Valmy;SEM:4025;1660334400;0;36
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Flandrin - Valmy;SEM:4025;1660335960;0;99
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Bir Hakeim;SEM:0785;1660334576;0;30
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Bir Hakeim;SEM:0785;1660336136;0;99
+2022-08-12;SEM:15;Chenevieres;Grenoble, Verdun - Préfecture;SEM:4027;1660334700;0;36
+2022-08-12;SEM:15;Les Arnauds;Grenoble, Verdun - Préfecture;SEM:4027;1660336260;0;99
+2022-08-12;SEM:15;Chenevieres;Grenoble, Bir Hakeim;SEM:0786;1660334786;0;16
+2022-08-12;SEM:15;Les Arnauds;Grenoble, Bir Hakeim;SEM:0786;1660336324;0;100
+2022-08-12;SEM:15;Chenevieres;Grenoble, Flandrin - Valmy;SEM:4026;1660334940;0;15
+2022-08-12;SEM:15;Les Arnauds;Grenoble, Flandrin - Valmy;SEM:4026;1660336440;0;99
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0537;1660335097;0;15
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0537;1660336598;0;100
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0536;1660335164;0;15
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0536;1660336666;0;100
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0909;1660335240;0;12
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0909;1660336740;0;100
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Champ Roman;SEM:1277;1660335337;0;13
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Champ Roman;SEM:1277;1660336837;0;101
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1864;1660334169;0;65
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1864;1660336958;0;101
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1864;1660335458;0;13
+2022-08-12;SEM:15;Les Arnauds;Gières, Le Sonnant;SEM:0533;1660334238;0;64
+2022-08-12;SEM:15;Les Arnauds;Gières, Le Sonnant;SEM:0533;1660337018;0;101
+2022-08-12;SEM:15;Chenevieres;Gières, Le Sonnant;SEM:0533;1660335518;0;13
+2022-08-12;SEM:15;Les Arnauds;Gières, Edelweiss;SEM:0334;1660334326;0;64
+2022-08-12;SEM:15;Les Arnauds;Gières, Edelweiss;SEM:0334;1660337095;0;101
+2022-08-12;SEM:15;Chenevieres;Gières, Edelweiss;SEM:0334;1660335595;0;13
+2022-08-12;SEM:15;Les Arnauds;Gières, Place de la République;SEM:1565;1660334400;0;63
+2022-08-12;SEM:15;Les Arnauds;Gières, Place de la République;SEM:1565;1660337160;0;100
+2022-08-12;SEM:15;Chenevieres;Gières, Place de la République;SEM:1565;1660335660;0;12
+2022-08-12;SEM:15;Les Arnauds;Gières, Pied de Gières;SEM:0045;1660334467;0;63
+2022-08-12;SEM:15;Les Arnauds;Gières, Pied de Gières;SEM:0045;1660337227;0;100
+2022-08-12;SEM:15;Chenevieres;Gières, Pied de Gières;SEM:0045;1660335727;0;12
+2022-08-12;SEM:15;Les Arnauds;Gières, Champrondet;SEM:0331;1660334520;0;64
+2022-08-12;SEM:15;Les Arnauds;Gières, Champrondet;SEM:0331;1660337280;0;101
+2022-08-12;SEM:15;Chenevieres;Gières, Champrondet;SEM:0331;1660335780;0;13
+2022-08-12;SEM:15;Les Arnauds;Gières, Le Japin;SEM:1045;1660334580;0;63
+2022-08-12;SEM:15;Les Arnauds;Gières, Le Japin;SEM:1045;1660337340;0;100
+2022-08-12;SEM:15;Chenevieres;Gières, Le Japin;SEM:1045;1660335840;0;12
+2022-08-12;SEM:15;Les Arnauds;Murianette, La Perrière;SEM:0041;1660334626;0;63
+2022-08-12;SEM:15;Les Arnauds;Murianette, La Perrière;SEM:0041;1660337386;0;100
+2022-08-12;SEM:15;Chenevieres;Murianette, La Perrière;SEM:0041;1660335886;0;12
+2022-08-12;SEM:15;Les Arnauds;Murianette, Le Bourg;SEM:0039;1660334681;0;64
+2022-08-12;SEM:15;Les Arnauds;Murianette, Le Bourg;SEM:0039;1660337441;0;100
+2022-08-12;SEM:15;Chenevieres;Murianette, Le Bourg;SEM:0039;1660335942;0;23
+2022-08-12;SEM:15;Les Arnauds;Murianette, La Briot;SEM:1531;1660334722;0;65
+2022-08-12;SEM:15;Les Arnauds;Murianette, La Briot;SEM:1531;1660337482;0;101
+2022-08-12;SEM:15;Chenevieres;Murianette, La Briot;SEM:1531;1660335983;0;24
+2022-08-12;SEM:15;Les Arnauds;Murianette, Les Rivets;SEM:0529;1660334771;0;65
+2022-08-12;SEM:15;Les Arnauds;Murianette, Les Rivets;SEM:0529;1660337532;0;79
+2022-08-12;SEM:15;Chenevieres;Murianette, Les Rivets;SEM:0529;1660336032;0;13
+2022-08-12;SEM:15;Les Arnauds;Domène, Les Mortes;SEM:0527;1660334816;0;66
+2022-08-12;SEM:15;Les Arnauds;Domène, Les Mortes;SEM:0527;1660337576;0;90
+2022-08-12;SEM:15;Chenevieres;Domène, Les Mortes;SEM:0527;1660336078;0;13
+2022-08-12;SEM:15;Les Arnauds;Domène, L'Oratoire;SEM:0526;1660334865;0;66
+2022-08-12;SEM:15;Chenevieres;Domène, L'Oratoire;SEM:0526;1660336127;0;13
+2022-08-12;SEM:15;Les Arnauds;Domène, Coubertin;SEM:1771;1660334907;0;66
+2022-08-12;SEM:15;Chenevieres;Domène, Coubertin;SEM:1771;1660336170;0;12
+2022-08-12;SEM:15;Les Arnauds;Domène, Domène Mairie;SEM:1278;1660334940;0;66
+2022-08-12;SEM:15;Chenevieres;Domène, Domène Mairie;SEM:1278;1660336200;0;15
+2022-08-12;SEM:15;Chenevieres;Domène, Le Prieuré;SEM:0523;1660336251;0;15
+2022-08-12;SEM:15;Chenevieres;Domène, Les Vernes;SEM:1160;1660336294;0;33
+2022-08-12;SEM:15;Les Arnauds;Domène, René Cassin;SEM:1081;1660335025;0;67
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Les Arnauds;SEM:0525;1660336260;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Domène, René Cassin;SEM:1080;1660336330;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Champ Roman;SEM:1550;1660335527;0;45
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Flandrin - Valmy;SEM:4025;1660335960;0;62
+2022-08-12;SEM:15;Les Arnauds;Grenoble, Verdun - Préfecture;SEM:4027;1660336260;0;62
+2022-08-12;SEM:15;Les Arnauds;Grenoble, Flandrin - Valmy;SEM:4026;1660336440;0;62
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Champ Roman;SEM:1277;1660335337;0;43
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Champ Roman;SEM:1277;1660336837;0;64
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1864;1660335458;0;43
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1864;1660336958;0;64
+2022-08-12;SEM:15;Les Arnauds;Gières, Le Sonnant;SEM:0533;1660337018;0;64
+2022-08-12;SEM:15;Chenevieres;Gières, Le Sonnant;SEM:0533;1660335518;0;43
+2022-08-12;SEM:15;Les Arnauds;Gières, Place de la République;SEM:1565;1660337160;0;63
+2022-08-12;SEM:15;Chenevieres;Gières, Place de la République;SEM:1565;1660335660;0;42
+2022-08-12;SEM:15;Les Arnauds;Gières, Le Japin;SEM:1045;1660337340;0;63
+2022-08-12;SEM:15;Chenevieres;Gières, Le Japin;SEM:1045;1660335840;0;42
+2022-08-12;SEM:15;Les Arnauds;Murianette, La Briot;SEM:1531;1660337482;0;64
+2022-08-12;SEM:15;Les Arnauds;Domène, L'Oratoire;SEM:0526;1660337625;0;64
+2022-08-12;SEM:15;Les Arnauds;Domène, Coubertin;SEM:1771;1660337667;0;64
+2022-08-12;SEM:15;Chenevieres;Domène, Domène Mairie;SEM:1278;1660336200;0;45
+2022-08-12;SEM:15;Chenevieres;Domène, Le Prieuré;SEM:0523;1660336255;0;44
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0910;1660335600;0;64
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0911;1660335682;0;64
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0912;1660335782;0;63
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Bir Hakeim;SEM:0785;1660336136;0;62
+2022-08-12;SEM:15;Les Arnauds;Grenoble, Bir Hakeim;SEM:0786;1660336324;0;63
+2022-08-12;SEM:15;Chenevieres;Grenoble, Flandrin - Valmy;SEM:4026;1660334940;0;59
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0537;1660336598;0;63
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0536;1660336666;0;63
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0909;1660335240;0;42
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0909;1660336740;0;63
+2022-08-12;SEM:15;Les Arnauds;Gières, Edelweiss;SEM:0334;1660337095;0;64
+2022-08-12;SEM:15;Chenevieres;Gières, Edelweiss;SEM:0334;1660335595;0;43
+2022-08-12;SEM:15;Les Arnauds;Gières, Pied de Gières;SEM:0045;1660337227;0;63
+2022-08-12;SEM:15;Chenevieres;Gières, Pied de Gières;SEM:0045;1660335727;0;42
+2022-08-12;SEM:15;Les Arnauds;Gières, Champrondet;SEM:0331;1660337280;0;64
+2022-08-12;SEM:15;Chenevieres;Gières, Champrondet;SEM:0331;1660335780;0;45
+2022-08-12;SEM:15;Les Arnauds;Murianette, La Perrière;SEM:0041;1660337386;0;63
+2022-08-12;SEM:15;Chenevieres;Murianette, La Perrière;SEM:0041;1660335886;0;42
+2022-08-12;SEM:15;Les Arnauds;Murianette, Le Bourg;SEM:0039;1660337441;0;63
+2022-08-12;SEM:15;Chenevieres;Murianette, La Briot;SEM:1531;1660335982;0;61
+2022-08-12;SEM:15;Chenevieres;Murianette, Les Rivets;SEM:0529;1660336031;0;44
+2022-08-12;SEM:15;Chenevieres;Domène, Coubertin;SEM:1771;1660336167;0;61
+2022-08-12;SEM:15;Les Arnauds;Domène, Domène Mairie;SEM:1278;1660337700;0;52
+2022-08-12;SEM:15;Chenevieres;Domène, Les Vernes;SEM:1160;1660336303;0;61
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Chenevières;SEM:0521;1660334400;0;31
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Les Vernes;SEM:1161;1660334534;0;32
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Le Prieuré;SEM:0522;1660334575;0;32
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Domène Mairie;SEM:0037;1660334640;0;32
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Coubertin;SEM:1770;1660334678;0;32
+2022-08-12;SEM:15;Verdun Prefect.;Domène, L'Oratoire;SEM:0107;1660334712;0;32
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Les Mortes;SEM:0038;1660334766;0;32
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Les Rivets;SEM:0528;1660334811;0;32
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, La Briot;SEM:1532;1660334863;0;33
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Le Bourg;SEM:0530;1660334895;0;32
+2022-08-12;SEM:15;Verdun Prefect.;Gières, La Perrière;SEM:0040;1660334965;0;32
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Le Japin;SEM:0042;1660335000;0;32
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Champrondet;SEM:0043;1660335052;0;32
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Pied de Gières;SEM:0044;1660335107;0;32
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Place de la République;SEM:1566;1660335180;0;32
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Edelweiss;SEM:0333;1660335248;0;33
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1863;1660335398;0;24
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Bir Hakeim;SEM:0785;1660334576;0;61
+2022-08-12;SEM:15;Chenevieres;Grenoble, Bir Hakeim;SEM:0786;1660334786;0;61
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0537;1660335098;0;60
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0536;1660335166;0;60
+2022-08-12;SEM:15;Chenevieres;Murianette, Le Bourg;SEM:0039;1660335941;0;60
+2022-08-12;SEM:15;Les Arnauds;Domène, Les Mortes;SEM:0527;1660337576;0;52
+2022-08-12;SEM:15;Chenevieres;Domène, Les Mortes;SEM:0527;1660336076;0;61
+2022-08-12;SEM:15;Chenevieres;Domène, L'Oratoire;SEM:0526;1660336125;0;61
+2022-08-12;SEM:15;Les Arnauds;Murianette, Les Rivets;SEM:0529;1660337531;0;43
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Le Sonnant;SEM:0215;1660335315;0;23
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Flandrin - Valmy;SEM:4025;1660335960;0;23
+2022-08-12;SEM:15;Les Arnauds;Grenoble, Verdun - Préfecture;SEM:4027;1660336260;0;23
+2022-08-12;SEM:15;Les Arnauds;Grenoble, Flandrin - Valmy;SEM:4026;1660336440;0;23
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Champ Roman;SEM:1277;1660336837;0;25
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1864;1660336958;0;25
+2022-08-12;SEM:15;Les Arnauds;Gières, Place de la République;SEM:1565;1660337160;0;24
+2022-08-12;SEM:15;Les Arnauds;Murianette, La Briot;SEM:1531;1660337482;0;20
+2022-08-12;SEM:15;Les Arnauds;Domène, Coubertin;SEM:1771;1660337667;0;25
+2022-08-12;SEM:15;Les Arnauds;Domène, Domène Mairie;SEM:1278;1660337700;0;20
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Les Vernes;SEM:1161;1660334534;0;-1
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, La Briot;SEM:1532;1660334863;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Champrondet;SEM:0043;1660335052;0;-1
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Champ Roman;SEM:1550;1660335527;0;5
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0910;1660335600;0;24
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0911;1660335682;0;19
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0912;1660335782;0;19
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Bir Hakeim;SEM:0785;1660336136;0;18
+2022-08-12;SEM:15;Les Arnauds;Grenoble, Bir Hakeim;SEM:0786;1660336324;0;19
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0537;1660336598;0;24
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0536;1660336666;0;24
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0909;1660336740;0;24
+2022-08-12;SEM:15;Les Arnauds;Gières, Le Sonnant;SEM:0533;1660337018;0;25
+2022-08-12;SEM:15;Les Arnauds;Gières, Edelweiss;SEM:0334;1660337095;0;25
+2022-08-12;SEM:15;Les Arnauds;Gières, Pied de Gières;SEM:0045;1660337227;0;24
+2022-08-12;SEM:15;Les Arnauds;Gières, Champrondet;SEM:0331;1660337280;0;20
+2022-08-12;SEM:15;Les Arnauds;Gières, Le Japin;SEM:1045;1660337340;0;24
+2022-08-12;SEM:15;Les Arnauds;Murianette, La Perrière;SEM:0041;1660337386;0;24
+2022-08-12;SEM:15;Les Arnauds;Murianette, Le Bourg;SEM:0039;1660337441;0;19
+2022-08-12;SEM:15;Les Arnauds;Domène, L'Oratoire;SEM:0526;1660337625;0;25
+2022-08-12;SEM:15;Chenevieres;Domène, Coubertin;SEM:1771;1660336167;0;31
+2022-08-12;SEM:15;Chenevieres;Domène, Les Vernes;SEM:1160;1660336303;0;31
+2022-08-12;SEM:15;Les Arnauds;Domène, René Cassin;SEM:1081;1660337785;0;26
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Le Prieuré;SEM:0522;1660334575;0;-1
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Coubertin;SEM:1770;1660334678;0;-22
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Place de la République;SEM:1566;1660335180;0;-15
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1863;1660335398;0;-21
+2022-08-12;SEM:15;Chenevieres;Grenoble, Bir Hakeim;SEM:0786;1660334786;0;30
+2022-08-12;SEM:15;Chenevieres;Grenoble, Flandrin - Valmy;SEM:4026;1660334940;0;29
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0537;1660335098;0;30
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0536;1660335166;0;30
+2022-08-12;SEM:15;Chenevieres;Murianette, Le Bourg;SEM:0039;1660335941;0;30
+2022-08-12;SEM:15;Chenevieres;Murianette, La Briot;SEM:1531;1660335982;0;31
+2022-08-12;SEM:15;Les Arnauds;Murianette, Les Rivets;SEM:0529;1660337531;0;6
+2022-08-12;SEM:15;Les Arnauds;Domène, Les Mortes;SEM:0527;1660337576;0;2
+2022-08-12;SEM:15;Chenevieres;Domène, Les Mortes;SEM:0527;1660336076;0;31
+2022-08-12;SEM:15;Chenevieres;Domène, L'Oratoire;SEM:0526;1660336125;0;31
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Chenevières;SEM:0521;1660334400;0;-23
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Domène Mairie;SEM:0037;1660334640;0;-15
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Les Mortes;SEM:0038;1660334766;0;-15
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Le Japin;SEM:0042;1660335000;0;-15
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Pied de Gières;SEM:0044;1660335107;0;-22
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Edelweiss;SEM:0333;1660335248;0;-21
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Le Sonnant;SEM:0215;1660335315;0;-15
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1863;1660337198;0;1
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Champ Roman;SEM:1550;1660337327;0;1
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Flandrin - Valmy;SEM:4025;1660334400;0;-6
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Flandrin - Valmy;SEM:4025;1660337700;0;19
+2022-08-12;SEM:15;Chenevieres;Grenoble, Verdun - Préfecture;SEM:4027;1660334700;0;0
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Champ Roman;SEM:1277;1660335337;0;2
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1864;1660335458;0;2
+2022-08-12;SEM:15;Chenevieres;Gières, Le Sonnant;SEM:0533;1660335518;0;2
+2022-08-12;SEM:15;Les Arnauds;Gières, Place de la République;SEM:1565;1660334400;0;2
+2022-08-12;SEM:15;Les Arnauds;Gières, Le Japin;SEM:1045;1660334580;0;2
+2022-08-12;SEM:15;Les Arnauds;Murianette, La Briot;SEM:1531;1660334722;0;3
+2022-08-12;SEM:15;Les Arnauds;Domène, L'Oratoire;SEM:0526;1660334865;0;3
+2022-08-12;SEM:15;Les Arnauds;Domène, Coubertin;SEM:1771;1660334907;0;3
+2022-08-12;SEM:15;Chenevieres;Domène, Domène Mairie;SEM:1278;1660336200;0;2
+2022-08-12;SEM:15;Chenevieres;Domène, Le Prieuré;SEM:0523;1660336255;0;3
+2022-08-12;SEM:15;Les Arnauds;Domène, René Cassin;SEM:1081;1660335025;0;4
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Chenevières;SEM:0521;1660338480;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Domène Mairie;SEM:0037;1660338660;0;0
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Coubertin;SEM:1770;1660338697;0;1
+2022-08-12;SEM:15;Verdun Prefect.;Domène, L'Oratoire;SEM:0107;1660336512;0;-1
+2022-08-12;SEM:15;Verdun Prefect.;Domène, L'Oratoire;SEM:0107;1660338730;0;2
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Les Mortes;SEM:0038;1660336566;0;-2
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Les Mortes;SEM:0038;1660338783;0;1
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Les Rivets;SEM:0528;1660336611;0;-3
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Les Rivets;SEM:0528;1660338827;0;4
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, La Briot;SEM:1532;1660336663;0;-4
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Le Bourg;SEM:0530;1660336695;0;-5
+2022-08-12;SEM:15;Verdun Prefect.;Gières, La Perrière;SEM:0040;1660336765;0;-7
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Le Japin;SEM:0042;1660336800;0;-8
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Champrondet;SEM:0043;1660336852;0;-4
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Place de la République;SEM:1566;1660336980;0;4
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Edelweiss;SEM:0333;1660337045;0;5
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Le Sonnant;SEM:0215;1660337108;0;5
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1863;1660337188;0;5
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Champ Roman;SEM:1550;1660335511;0;40
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Champ Roman;SEM:1550;1660337311;0;5
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0910;1660335600;0;42
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0910;1660337400;0;4
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0911;1660335682;0;39
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0911;1660337468;0;5
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0912;1660335782;0;39
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0912;1660337551;0;5
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Flandrin - Valmy;SEM:4025;1660335960;0;38
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Flandrin - Valmy;SEM:4025;1660337700;0;4
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Bir Hakeim;SEM:0785;1660336136;0;38
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Bir Hakeim;SEM:0785;1660337876;0;4
+2022-08-12;SEM:15;Les Arnauds;Grenoble, Verdun - Préfecture;SEM:4027;1660336260;0;41
+2022-08-12;SEM:15;Chenevieres;Grenoble, Verdun - Préfecture;SEM:4027;1660338000;0;4
+2022-08-12;SEM:15;Les Arnauds;Grenoble, Bir Hakeim;SEM:0786;1660336324;0;39
+2022-08-12;SEM:15;Chenevieres;Grenoble, Bir Hakeim;SEM:0786;1660338064;0;16
+2022-08-12;SEM:15;Les Arnauds;Grenoble, Flandrin - Valmy;SEM:4026;1660336440;0;38
+2022-08-12;SEM:15;Chenevieres;Grenoble, Flandrin - Valmy;SEM:4026;1660338180;0;0
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0537;1660336598;0;39
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0537;1660338338;0;1
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0536;1660336688;0;47
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0536;1660338406;0;1
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0909;1660336740;0;76
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0909;1660338480;0;1
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Champ Roman;SEM:1277;1660336837;0;77
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Champ Roman;SEM:1277;1660338577;0;2
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1864;1660335458;0;99
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1864;1660338698;0;2
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1864;1660336958;0;77
+2022-08-12;SEM:15;Chenevieres;Gières, Le Sonnant;SEM:0533;1660335518;0;99
+2022-08-12;SEM:15;Chenevieres;Gières, Le Sonnant;SEM:0533;1660338758;0;2
+2022-08-12;SEM:15;Les Arnauds;Gières, Le Sonnant;SEM:0533;1660337018;0;77
+2022-08-12;SEM:15;Chenevieres;Gières, Edelweiss;SEM:0334;1660335595;0;99
+2022-08-12;SEM:15;Chenevieres;Gières, Edelweiss;SEM:0334;1660338835;0;2
+2022-08-12;SEM:15;Les Arnauds;Gières, Edelweiss;SEM:0334;1660337095;0;77
+2022-08-12;SEM:15;Chenevieres;Gières, Place de la République;SEM:1565;1660335660;0;98
+2022-08-12;SEM:15;Chenevieres;Gières, Place de la République;SEM:1565;1660338900;0;1
+2022-08-12;SEM:15;Les Arnauds;Gières, Place de la République;SEM:1565;1660337160;0;76
+2022-08-12;SEM:15;Chenevieres;Gières, Pied de Gières;SEM:0045;1660335727;0;98
+2022-08-12;SEM:15;Chenevieres;Gières, Pied de Gières;SEM:0045;1660338967;0;29
+2022-08-12;SEM:15;Les Arnauds;Gières, Pied de Gières;SEM:0045;1660337227;0;59
+2022-08-12;SEM:15;Chenevieres;Gières, Champrondet;SEM:0331;1660335780;0;99
+2022-08-12;SEM:15;Les Arnauds;Gières, Champrondet;SEM:0331;1660337280;0;60
+2022-08-12;SEM:15;Chenevieres;Gières, Le Japin;SEM:1045;1660335840;0;98
+2022-08-12;SEM:15;Les Arnauds;Gières, Le Japin;SEM:1045;1660337340;0;59
+2022-08-12;SEM:15;Chenevieres;Murianette, La Perrière;SEM:0041;1660335886;0;98
+2022-08-12;SEM:15;Les Arnauds;Murianette, La Perrière;SEM:0041;1660337386;0;59
+2022-08-12;SEM:15;Chenevieres;Murianette, Le Bourg;SEM:0039;1660335941;0;98
+2022-08-12;SEM:15;Les Arnauds;Murianette, Le Bourg;SEM:0039;1660337441;0;76
+2022-08-12;SEM:15;Chenevieres;Murianette, La Briot;SEM:1531;1660335982;0;99
+2022-08-12;SEM:15;Les Arnauds;Murianette, La Briot;SEM:1531;1660337482;0;77
+2022-08-12;SEM:15;Chenevieres;Murianette, Les Rivets;SEM:0529;1660336038;0;98
+2022-08-12;SEM:15;Les Arnauds;Murianette, Les Rivets;SEM:0529;1660337531;0;76
+2022-08-12;SEM:15;Chenevieres;Domène, Les Mortes;SEM:0527;1660336085;0;98
+2022-08-12;SEM:15;Les Arnauds;Domène, Les Mortes;SEM:0527;1660337576;0;77
+2022-08-12;SEM:15;Chenevieres;Domène, L'Oratoire;SEM:0526;1660336135;0;99
+2022-08-12;SEM:15;Les Arnauds;Domène, L'Oratoire;SEM:0526;1660337625;0;77
+2022-08-12;SEM:15;Chenevieres;Domène, Coubertin;SEM:1771;1660336179;0;98
+2022-08-12;SEM:15;Les Arnauds;Domène, Coubertin;SEM:1771;1660337667;0;77
+2022-08-12;SEM:15;Chenevieres;Domène, Domène Mairie;SEM:1278;1660336200;0;111
+2022-08-12;SEM:15;Les Arnauds;Domène, Domène Mairie;SEM:1278;1660337700;0;77
+2022-08-12;SEM:15;Chenevieres;Domène, Le Prieuré;SEM:0523;1660336255;0;112
+2022-08-12;SEM:15;Chenevieres;Domène, Les Vernes;SEM:1160;1660336303;0;111
+2022-08-12;SEM:15;Les Arnauds;Domène, René Cassin;SEM:1081;1660337785;0;78
+2022-08-12;SEM:15;Chenevieres;Gières, Champrondet;SEM:0331;1660339020;0;30
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0537;1660336613;0;66
+2022-08-12;SEM:15;Les Arnauds;Gières, Pied de Gières;SEM:0045;1660337227;0;94
+2022-08-12;SEM:15;Les Arnauds;Gières, Champrondet;SEM:0331;1660337280;0;95
+2022-08-12;SEM:15;Chenevieres;Gières, Le Japin;SEM:1045;1660339080;0;29
+2022-08-12;SEM:15;Les Arnauds;Gières, Le Japin;SEM:1045;1660337340;0;94
+2022-08-12;SEM:15;Les Arnauds;Murianette, La Perrière;SEM:0041;1660337386;0;94
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0537;1660336598;0;34
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0536;1660336666;0;34
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0909;1660336740;0;34
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Champ Roman;SEM:1277;1660336837;0;35
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1864;1660336958;0;35
+2022-08-12;SEM:15;Les Arnauds;Gières, Le Sonnant;SEM:0533;1660337018;0;35
+2022-08-12;SEM:15;Les Arnauds;Gières, Edelweiss;SEM:0334;1660337095;0;35
+2022-08-12;SEM:15;Les Arnauds;Gières, Place de la République;SEM:1565;1660337160;0;34
+2022-08-12;SEM:15;Les Arnauds;Gières, Pied de Gières;SEM:0045;1660337227;0;34
+2022-08-12;SEM:15;Les Arnauds;Gières, Champrondet;SEM:0331;1660337280;0;35
+2022-08-12;SEM:15;Les Arnauds;Gières, Le Japin;SEM:1045;1660337340;0;34
+2022-08-12;SEM:15;Chenevieres;Murianette, La Perrière;SEM:0041;1660339126;0;29
+2022-08-12;SEM:15;Les Arnauds;Murianette, La Perrière;SEM:0041;1660337386;0;34
+2022-08-12;SEM:15;Les Arnauds;Murianette, Le Bourg;SEM:0039;1660337441;0;34
+2022-08-12;SEM:15;Les Arnauds;Murianette, La Briot;SEM:1531;1660337482;0;35
+2022-08-12;SEM:15;Les Arnauds;Murianette, Les Rivets;SEM:0529;1660337531;0;34
+2022-08-12;SEM:15;Les Arnauds;Domène, Les Mortes;SEM:0527;1660337576;0;35
+2022-08-12;SEM:15;Les Arnauds;Domène, L'Oratoire;SEM:0526;1660337625;0;35
+2022-08-12;SEM:15;Les Arnauds;Domène, Coubertin;SEM:1771;1660337667;0;35
+2022-08-12;SEM:15;Les Arnauds;Domène, Domène Mairie;SEM:1278;1660337700;0;35
+2022-08-12;SEM:15;Les Arnauds;Domène, René Cassin;SEM:1081;1660337785;0;36
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0537;1660336598;0;67
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0536;1660336666;0;67
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0909;1660336740;0;67
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Champ Roman;SEM:1277;1660336837;0;68
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1864;1660336958;0;68
+2022-08-12;SEM:15;Les Arnauds;Gières, Le Sonnant;SEM:0533;1660337018;0;68
+2022-08-12;SEM:15;Les Arnauds;Gières, Edelweiss;SEM:0334;1660337095;0;68
+2022-08-12;SEM:15;Les Arnauds;Gières, Place de la République;SEM:1565;1660337160;0;67
+2022-08-12;SEM:15;Les Arnauds;Gières, Pied de Gières;SEM:0045;1660337227;0;67
+2022-08-12;SEM:15;Les Arnauds;Gières, Champrondet;SEM:0331;1660337280;0;68
+2022-08-12;SEM:15;Les Arnauds;Gières, Le Japin;SEM:1045;1660337340;0;67
+2022-08-12;SEM:15;Les Arnauds;Murianette, La Perrière;SEM:0041;1660337386;0;67
+2022-08-12;SEM:15;Chenevieres;Murianette, Le Bourg;SEM:0039;1660339181;0;1
+2022-08-12;SEM:15;Les Arnauds;Murianette, Le Bourg;SEM:0039;1660337441;0;67
+2022-08-12;SEM:15;Les Arnauds;Murianette, La Briot;SEM:1531;1660337482;0;68
+2022-08-12;SEM:15;Chenevieres;Murianette, Les Rivets;SEM:0529;1660336031;0;70
+2022-08-12;SEM:15;Les Arnauds;Murianette, Les Rivets;SEM:0529;1660337531;0;67
+2022-08-12;SEM:15;Chenevieres;Domène, Les Mortes;SEM:0527;1660336076;0;71
+2022-08-12;SEM:15;Les Arnauds;Domène, Les Mortes;SEM:0527;1660337576;0;68
+2022-08-12;SEM:15;Chenevieres;Domène, L'Oratoire;SEM:0526;1660336125;0;71
+2022-08-12;SEM:15;Les Arnauds;Domène, L'Oratoire;SEM:0526;1660337625;0;68
+2022-08-12;SEM:15;Chenevieres;Domène, Coubertin;SEM:1771;1660336167;0;71
+2022-08-12;SEM:15;Les Arnauds;Domène, Coubertin;SEM:1771;1660337667;0;68
+2022-08-12;SEM:15;Chenevieres;Domène, Domène Mairie;SEM:1278;1660336200;0;71
+2022-08-12;SEM:15;Les Arnauds;Domène, Domène Mairie;SEM:1278;1660337700;0;68
+2022-08-12;SEM:15;Chenevieres;Domène, Le Prieuré;SEM:0523;1660336255;0;72
+2022-08-12;SEM:15;Chenevieres;Domène, Les Vernes;SEM:1160;1660336303;0;71
+2022-08-12;SEM:15;Les Arnauds;Domène, René Cassin;SEM:1081;1660337785;0;69
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0911;1660335682;0;88
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0912;1660335782;0;87
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Flandrin - Valmy;SEM:4025;1660335960;0;85
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Bir Hakeim;SEM:0785;1660336136;0;85
+2022-08-12;SEM:15;Les Arnauds;Grenoble, Verdun - Préfecture;SEM:4027;1660336260;0;85
+2022-08-12;SEM:15;Les Arnauds;Grenoble, Bir Hakeim;SEM:0786;1660336324;0;86
+2022-08-12;SEM:15;Les Arnauds;Grenoble, Flandrin - Valmy;SEM:4026;1660336440;0;85
+2022-08-12;SEM:15;Chenevieres;Murianette, La Briot;SEM:1531;1660339222;0;2
+2022-08-12;SEM:15;Chenevieres;Murianette, Les Rivets;SEM:0529;1660339271;0;1
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Edelweiss;SEM:0333;1660339256;0;4
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0911;1660335682;0;120
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0912;1660335782;0;119
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Flandrin - Valmy;SEM:4025;1660335960;0;117
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Bir Hakeim;SEM:0785;1660336136;0;117
+2022-08-12;SEM:15;Les Arnauds;Grenoble, Verdun - Préfecture;SEM:4027;1660336260;0;117
+2022-08-12;SEM:15;Les Arnauds;Grenoble, Bir Hakeim;SEM:0786;1660336324;0;118
+2022-08-12;SEM:15;Les Arnauds;Grenoble, Flandrin - Valmy;SEM:4026;1660336440;0;117
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0537;1660336598;0;118
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0536;1660336666;0;118
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0909;1660336740;0;118
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Champ Roman;SEM:1277;1660336837;0;119
+2022-08-12;SEM:15;Les Arnauds;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1864;1660336958;0;119
+2022-08-12;SEM:15;Les Arnauds;Gières, Le Sonnant;SEM:0533;1660337018;0;119
+2022-08-12;SEM:15;Les Arnauds;Gières, Edelweiss;SEM:0334;1660337095;0;119
+2022-08-12;SEM:15;Les Arnauds;Gières, Place de la République;SEM:1565;1660337160;0;118
+2022-08-12;SEM:15;Les Arnauds;Gières, Pied de Gières;SEM:0045;1660337227;0;118
+2022-08-12;SEM:15;Les Arnauds;Gières, Champrondet;SEM:0331;1660337280;0;119
+2022-08-12;SEM:15;Les Arnauds;Gières, Le Japin;SEM:1045;1660337340;0;118
+2022-08-12;SEM:15;Les Arnauds;Murianette, La Perrière;SEM:0041;1660337386;0;118
+2022-08-12;SEM:15;Les Arnauds;Murianette, Le Bourg;SEM:0039;1660337441;0;118
+2022-08-12;SEM:15;Les Arnauds;Murianette, La Briot;SEM:1531;1660337482;0;119
+2022-08-12;SEM:15;Les Arnauds;Murianette, Les Rivets;SEM:0529;1660337531;0;118
+2022-08-12;SEM:15;Les Arnauds;Domène, Les Mortes;SEM:0527;1660337576;0;119
+2022-08-12;SEM:15;Les Arnauds;Domène, L'Oratoire;SEM:0526;1660337625;0;119
+2022-08-12;SEM:15;Les Arnauds;Domène, Coubertin;SEM:1771;1660337667;0;56
+2022-08-12;SEM:15;Les Arnauds;Domène, Domène Mairie;SEM:1278;1660337700;0;56
+2022-08-12;SEM:15;Les Arnauds;Domène, René Cassin;SEM:1081;1660337785;0;120
+2022-08-12;SEM:15;Verdun Prefect.;Domène, L'Oratoire;SEM:0107;1660338732;0;-471
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Les Mortes;SEM:0038;1660338786;0;-471
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Les Rivets;SEM:0528;1660338831;0;-471
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, La Briot;SEM:1532;1660338883;0;-470
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Le Bourg;SEM:0530;1660338915;0;-471
+2022-08-12;SEM:15;Verdun Prefect.;Gières, La Perrière;SEM:0040;1660338985;0;-471
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Le Japin;SEM:0042;1660339020;0;-471
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Champrondet;SEM:0043;1660339072;0;-471
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Pied de Gières;SEM:0044;1660339127;0;-459
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Place de la République;SEM:1566;1660339200;0;-471
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Edelweiss;SEM:0333;1660339256;0;-469
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Le Sonnant;SEM:0215;1660339310;0;-467
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1863;1660339379;0;-465
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Champ Roman;SEM:1550;1660339484;0;-461
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0910;1660339560;0;-459
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0911;1660339614;0;-455
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0912;1660339681;0;-440
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Flandrin - Valmy;SEM:4025;1660339800;0;-435
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Bir Hakeim;SEM:0785;1660339970;0;-435
+2022-08-12;SEM:15;Verdun Prefect.;Domène, Les Mortes;SEM:0038;1660338786;0;-440
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Les Rivets;SEM:0528;1660338831;0;-440
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, La Briot;SEM:1532;1660338883;0;-438
+2022-08-12;SEM:15;Verdun Prefect.;Murianette, Le Bourg;SEM:0530;1660338915;0;-440
+2022-08-12;SEM:15;Verdun Prefect.;Gières, La Perrière;SEM:0040;1660338985;0;-440
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Le Japin;SEM:0042;1660339020;0;-440
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Place de la République;SEM:1566;1660339200;0;-440
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Edelweiss;SEM:0333;1660339256;0;-438
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1863;1660339379;0;-434
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Champ Roman;SEM:1550;1660339484;0;-429
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0911;1660339614;0;-424
+2022-08-12;SEM:15;Chenevieres;Domène, Coubertin;SEM:1771;1660339407;0;93
+2022-08-12;SEM:15;Chenevieres;Domène, Domène Mairie;SEM:1278;1660339440;0;93
+2022-08-12;SEM:15;Chenevieres;Domène, Les Vernes;SEM:1160;1660339543;0;93
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Le Sonnant;SEM:0215;1660339310;0;-435
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0537;1660338338;0;92
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0536;1660338406;0;92
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0909;1660338480;0;92
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Champ Roman;SEM:1277;1660338577;0;93
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1864;1660338698;0;93
+2022-08-12;SEM:15;Chenevieres;Gières, Le Sonnant;SEM:0533;1660338758;0;93
+2022-08-12;SEM:15;Chenevieres;Gières, Edelweiss;SEM:0334;1660338835;0;93
+2022-08-12;SEM:15;Chenevieres;Gières, Place de la République;SEM:1565;1660338900;0;92
+2022-08-12;SEM:15;Chenevieres;Gières, Pied de Gières;SEM:0045;1660338967;0;92
+2022-08-12;SEM:15;Chenevieres;Gières, Champrondet;SEM:0331;1660339020;0;93
+2022-08-12;SEM:15;Chenevieres;Gières, Le Japin;SEM:1045;1660339080;0;92
+2022-08-12;SEM:15;Chenevieres;Murianette, La Perrière;SEM:0041;1660339126;0;92
+2022-08-12;SEM:15;Chenevieres;Murianette, Le Bourg;SEM:0039;1660339181;0;92
+2022-08-12;SEM:15;Chenevieres;Murianette, La Briot;SEM:1531;1660339222;0;93
+2022-08-12;SEM:15;Chenevieres;Murianette, Les Rivets;SEM:0529;1660339271;0;92
+2022-08-12;SEM:15;Chenevieres;Domène, Les Mortes;SEM:0527;1660339316;0;93
+2022-08-12;SEM:15;Chenevieres;Domène, L'Oratoire;SEM:0526;1660339365;0;93
+2022-08-12;SEM:15;Chenevieres;Domène, Le Prieuré;SEM:0523;1660339495;0;94
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Champrondet;SEM:0043;1660339072;0;-436
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Pied de Gières;SEM:0044;1660339127;0;-421
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0910;1660339560;0;-424
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0912;1660339681;0;-403
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Flandrin - Valmy;SEM:4025;1660339800;0;-398
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Bir Hakeim;SEM:0785;1660339976;0;-398
+2022-08-12;SEM:15;Verdun Prefect.;Gières, Place de la République;SEM:1566;1660339200;0;-402
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1863;1660339379;0;-396
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Champ Roman;SEM:1550;1660339484;0;-392
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0909;1660338480;0;95
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Champ Roman;SEM:1277;1660338577;0;96
+2022-08-12;SEM:15;Chenevieres;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1864;1660338698;0;96
+2022-08-12;SEM:15;Chenevieres;Gières, Le Sonnant;SEM:0533;1660338758;0;96
+2022-08-12;SEM:15;Chenevieres;Gières, Place de la République;SEM:1565;1660338900;0;95
+2022-08-12;SEM:15;Chenevieres;Gières, Champrondet;SEM:0331;1660339020;0;96
+2022-08-12;SEM:15;Chenevieres;Gières, Le Japin;SEM:1045;1660339080;0;95
+2022-08-12;SEM:15;Chenevieres;Murianette, La Perrière;SEM:0041;1660339126;0;95
+2022-08-12;SEM:15;Chenevieres;Murianette, Le Bourg;SEM:0039;1660339181;0;95
+2022-08-12;SEM:15;Chenevieres;Murianette, La Briot;SEM:1531;1660339222;0;96
+2022-08-12;SEM:15;Chenevieres;Murianette, Les Rivets;SEM:0529;1660339271;0;95
+2022-08-12;SEM:15;Chenevieres;Domène, Les Mortes;SEM:0527;1660339316;0;96
+2022-08-12;SEM:15;Chenevieres;Domène, L'Oratoire;SEM:0526;1660339365;0;96
+2022-08-12;SEM:15;Chenevieres;Domène, Coubertin;SEM:1771;1660339407;0;96
+2022-08-12;SEM:15;Chenevieres;Domène, Domène Mairie;SEM:1278;1660339440;0;96
+2022-08-12;SEM:15;Chenevieres;Domène, Le Prieuré;SEM:0523;1660339495;0;97
+2022-08-12;SEM:15;Chenevieres;Domène, Les Vernes;SEM:1160;1660339543;0;96
+2022-08-12;SEM:A;Victor Hugo;Le Pont-de-Claix, L'Etoile;SEM:3393;1660339020;0;0
+2022-08-12;SEM:A;Victor Hugo;Le Pont-de-Claix, L'Etoile;SEM:3393;1660340220;0;0
+2022-08-12;SEM:A;Victor Hugo;Le Pont-de-Claix, Edmée Chandon;SEM:4381;1660339085;0;0
+2022-08-12;SEM:A;Victor Hugo;Le Pont-de-Claix, Edmée Chandon;SEM:4381;1660340285;0;0
+2022-08-12;SEM:A;Victor Hugo;Le Pont-de-Claix, Edmée Chandon;SEM:4381;1660341485;0;0
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Denis Papin;SEM:2074;1660339200;0;17
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Denis Papin;SEM:2074;1660340400;0;11
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Denis Papin;SEM:2074;1660341600;0;0
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Auguste Delaune;SEM:2072;1660339265;0;22
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Auguste Delaune;SEM:2072;1660340465;0;11
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Auguste Delaune;SEM:2072;1660341677;0;1
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Marie Curie;SEM:2070;1660339319;0;17
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Marie Curie;SEM:2070;1660340519;0;11
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Marie Curie;SEM:2070;1660341742;0;0
+2022-08-12;SEM:A;Victor Hugo;Échirolles, La Rampe - Centre-Ville;SEM:2068;1660339368;0;17
+2022-08-12;SEM:A;Victor Hugo;Échirolles, La Rampe - Centre-Ville;SEM:2068;1660340568;0;11
+2022-08-12;SEM:A;Victor Hugo;Échirolles, La Rampe - Centre-Ville;SEM:2068;1660341768;0;0
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Echirolles Gare;SEM:2207;1660339440;0;0
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Echirolles Gare;SEM:2207;1660340640;0;0
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Echirolles Gare;SEM:2207;1660341840;0;0
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Essarts - La Butte;SEM:2066;1660339504;0;1
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Essarts - La Butte;SEM:2066;1660340704;0;1
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Essarts - La Butte;SEM:2066;1660341904;0;1
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Surieux;SEM:2064;1660339600;0;1
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Surieux;SEM:2064;1660340800;0;1
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Surieux;SEM:2064;1660342000;0;1
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Les Granges;SEM:2062;1660339711;0;1
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Les Granges;SEM:2062;1660340911;0;1
+2022-08-12;SEM:A;Victor Hugo;Échirolles, Les Granges;SEM:2062;1660342111;0;1
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Polesud - Alpexpo;SEM:2060;1660339800;0;0
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Polesud - Alpexpo;SEM:2060;1660341000;0;0
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Grand'place;SEM:2212;1660338780;0;133
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Grand'place;SEM:2212;1660339980;0;0
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Grand'place;SEM:2212;1660341180;0;0
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Arlequin;SEM:2004;1660338885;0;120
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Arlequin;SEM:2004;1660340085;0;1
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Arlequin;SEM:2004;1660341285;0;1
+2022-08-12;SEM:A;Victor Hugo;Grenoble, La Bruyère-Parc Jean Verlhac;SEM:2006;1660338949;0;134
+2022-08-12;SEM:A;Victor Hugo;Grenoble, La Bruyère-Parc Jean Verlhac;SEM:2006;1660340149;0;1
+2022-08-12;SEM:A;Victor Hugo;Grenoble, La Bruyère-Parc Jean Verlhac;SEM:2006;1660341349;0;1
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Malherbe;SEM:2008;1660339020;0;125
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Malherbe;SEM:2008;1660340220;0;1
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Malherbe;SEM:2008;1660341420;0;1
+2022-08-12;SEM:A;Victor Hugo;Grenoble, MC2: Maison de la Culture;SEM:2010;1660339118;0;135
+2022-08-12;SEM:A;Victor Hugo;Grenoble, MC2: Maison de la Culture;SEM:2010;1660340318;0;2
+2022-08-12;SEM:A;Victor Hugo;Grenoble, MC2: Maison de la Culture;SEM:2010;1660341518;0;2
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Mounier;SEM:2012;1660339254;0;126
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Mounier;SEM:2012;1660340454;0;2
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Mounier;SEM:2012;1660341654;0;2
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Albert 1er de Belgique;SEM:2014;1660339320;0;138
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Albert 1er de Belgique;SEM:2014;1660340520;0;1
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Albert 1er de Belgique;SEM:2014;1660341720;0;24
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Verdun - Préfecture;SEM:2018;1660339620;0;95
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Verdun - Préfecture;SEM:2018;1660340820;0;1
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Verdun - Préfecture;SEM:2018;1660342020;0;-22
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Hubert Dubedout - Maison du Tourisme;SEM:2020;1660338871;0;-28
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Hubert Dubedout - Maison du Tourisme;SEM:2020;1660339771;0;96
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Hubert Dubedout - Maison du Tourisme;SEM:2020;1660340971;0;2
+2022-08-12;SEM:A;L'Etoile;Grenoble, Victor Hugo;SEM:2217;1660339380;0;0
+2022-08-12;SEM:A;L'Etoile;Grenoble, Victor Hugo;SEM:2217;1660340340;0;0
+2022-08-12;SEM:A;L'Etoile;Grenoble, Victor Hugo;SEM:2217;1660341540;0;0
+2022-08-12;SEM:A;L'Etoile;Grenoble, Hubert Dubedout - Maison du Tourisme;SEM:2021;1660339448;0;0
+2022-08-12;SEM:A;L'Etoile;Grenoble, Hubert Dubedout - Maison du Tourisme;SEM:2021;1660340408;0;0
+2022-08-12;SEM:A;L'Etoile;Grenoble, Hubert Dubedout - Maison du Tourisme;SEM:2021;1660341608;0;0
+2022-08-12;SEM:A;L'Etoile;Grenoble, Verdun - Préfecture;SEM:2019;1660338660;0;76
+2022-08-12;SEM:A;L'Etoile;Grenoble, Verdun - Préfecture;SEM:2019;1660339560;0;0
+2022-08-12;SEM:A;L'Etoile;Grenoble, Verdun - Préfecture;SEM:2019;1660340520;0;0
+2022-08-12;SEM:A;L'Etoile;Grenoble, Albert 1er de Belgique;SEM:2015;1660338960;0;76
+2022-08-12;SEM:A;L'Etoile;Grenoble, Albert 1er de Belgique;SEM:2015;1660339860;0;-1
+2022-08-12;SEM:A;L'Etoile;Grenoble, Albert 1er de Belgique;SEM:2015;1660340820;0;-16
+2022-08-12;SEM:A;L'Etoile;Grenoble, Mounier;SEM:2013;1660339012;0;76
+2022-08-12;SEM:A;L'Etoile;Grenoble, Mounier;SEM:2013;1660339912;0;-1
+2022-08-12;SEM:A;L'Etoile;Grenoble, Mounier;SEM:2013;1660340872;0;-16
+2022-08-12;SEM:A;L'Etoile;Grenoble, MC2: Maison de la Culture;SEM:2011;1660339121;0;76
+2022-08-12;SEM:A;L'Etoile;Grenoble, MC2: Maison de la Culture;SEM:2011;1660340021;0;-1
+2022-08-12;SEM:A;L'Etoile;Grenoble, MC2: Maison de la Culture;SEM:2011;1660340981;0;0
+2022-08-12;SEM:A;L'Etoile;Grenoble, Malherbe;SEM:2009;1660339200;0;76
+2022-08-12;SEM:A;L'Etoile;Grenoble, Malherbe;SEM:2009;1660340100;0;13
+2022-08-12;SEM:A;L'Etoile;Grenoble, Malherbe;SEM:2009;1660341060;0;7
+2022-08-12;SEM:A;L'Etoile;Grenoble, La Bruyère-Parc Jean Verlhac;SEM:2007;1660339268;0;78
+2022-08-12;SEM:A;L'Etoile;Grenoble, La Bruyère-Parc Jean Verlhac;SEM:2007;1660340168;0;13
+2022-08-12;SEM:A;L'Etoile;Grenoble, La Bruyère-Parc Jean Verlhac;SEM:2007;1660341128;0;7
+2022-08-12;SEM:A;L'Etoile;Grenoble, Arlequin;SEM:2005;1660339330;0;77
+2022-08-12;SEM:A;L'Etoile;Grenoble, Arlequin;SEM:2005;1660340246;0;0
+2022-08-12;SEM:A;L'Etoile;Grenoble, Arlequin;SEM:2005;1660341190;0;8
+2022-08-12;SEM:A;L'Etoile;Grenoble, Grand'place;SEM:2218;1660338600;0;135
+2022-08-12;SEM:A;L'Etoile;Grenoble, Grand'place;SEM:2218;1660339440;0;76
+2022-08-12;SEM:A;L'Etoile;Grenoble, Grand'place;SEM:2218;1660340340;0;29
+2022-08-12;SEM:A;L'Etoile;Grenoble, Polesud - Alpexpo;SEM:2061;1660338720;0;121
+2022-08-12;SEM:A;L'Etoile;Grenoble, Polesud - Alpexpo;SEM:2061;1660339560;0;76
+2022-08-12;SEM:A;L'Etoile;Grenoble, Polesud - Alpexpo;SEM:2061;1660340460;0;20
+2022-08-12;SEM:A;L'Etoile;Échirolles, Les Granges;SEM:2063;1660338822;0;122
+2022-08-12;SEM:A;L'Etoile;Échirolles, Les Granges;SEM:2063;1660339657;0;54
+2022-08-12;SEM:A;L'Etoile;Échirolles, Les Granges;SEM:2063;1660340562;0;6
+2022-08-12;SEM:A;L'Etoile;Échirolles, Surieux;SEM:2065;1660338948;0;122
+2022-08-12;SEM:A;L'Etoile;Échirolles, Surieux;SEM:2065;1660339788;0;77
+2022-08-12;SEM:A;L'Etoile;Échirolles, Surieux;SEM:2065;1660340688;0;6
+2022-08-12;SEM:A;L'Etoile;Échirolles, Essarts - La Butte;SEM:2067;1660339063;0;122
+2022-08-12;SEM:A;L'Etoile;Échirolles, Essarts - La Butte;SEM:2067;1660339903;0;66
+2022-08-12;SEM:A;L'Etoile;Échirolles, Essarts - La Butte;SEM:2067;1660340803;0;8
+2022-08-12;SEM:A;L'Etoile;Échirolles, Echirolles Gare;SEM:2208;1660339140;0;121
+2022-08-12;SEM:A;L'Etoile;Échirolles, Echirolles Gare;SEM:2208;1660339980;0;65
+2022-08-12;SEM:A;L'Etoile;Échirolles, Echirolles Gare;SEM:2208;1660340880;0;7
+2022-08-12;SEM:A;L'Etoile;Échirolles, La Rampe - Centre-Ville;SEM:2069;1660339228;0;122
+2022-08-12;SEM:A;L'Etoile;Échirolles, La Rampe - Centre-Ville;SEM:2069;1660340068;0;66
+2022-08-12;SEM:A;L'Etoile;Échirolles, La Rampe - Centre-Ville;SEM:2069;1660340968;0;1
+2022-08-12;SEM:A;L'Etoile;Échirolles, Marie Curie;SEM:2071;1660339288;0;121
+2022-08-12;SEM:A;L'Etoile;Échirolles, Marie Curie;SEM:2071;1660340128;0;65
+2022-08-12;SEM:A;L'Etoile;Échirolles, Marie Curie;SEM:2071;1660341028;0;0
+2022-08-12;SEM:A;L'Etoile;Échirolles, Auguste Delaune;SEM:2073;1660338636;0;124
+2022-08-12;SEM:A;L'Etoile;Échirolles, Auguste Delaune;SEM:2073;1660339356;0;122
+2022-08-12;SEM:A;L'Etoile;Échirolles, Auguste Delaune;SEM:2073;1660340196;0;66
+2022-08-12;SEM:A;L'Etoile;Échirolles, Denis Papin;SEM:2075;1660338720;0;142
+2022-08-12;SEM:A;L'Etoile;Échirolles, Denis Papin;SEM:2075;1660339440;0;121
+2022-08-12;SEM:A;L'Etoile;Échirolles, Denis Papin;SEM:2075;1660340280;0;65
+2022-08-12;SEM:A;L'Etoile;Le Pont-de-Claix, Edmée Chandon;SEM:4382;1660338871;0;124
+2022-08-12;SEM:A;L'Etoile;Le Pont-de-Claix, Edmée Chandon;SEM:4382;1660339591;0;115
+2022-08-12;SEM:A;L'Etoile;Le Pont-de-Claix, Edmée Chandon;SEM:4382;1660340393;0;65
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Polesud - Alpexpo;SEM:2060;1660338600;0;140
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Arlequin;SEM:2004;1660338885;0;141
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Verdun - Préfecture;SEM:2018;1660338720;0;25
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Hubert Dubedout - Maison du Tourisme;SEM:2020;1660338871;0;26
+2022-08-12;SEM:A;L'Etoile;Le Pont-de-Claix, Edmée Chandon;SEM:4382;1660339591;0;129
+2022-08-12;SEM:A;L'Etoile;Grenoble, Arlequin;SEM:2005;1660339346;0;98
+2022-08-12;SEM:A;L'Etoile;Grenoble, Grand'place;SEM:2218;1660339440;0;127
+2022-08-12;SEM:A;L'Etoile;Grenoble, Grand'place;SEM:2218;1660341300;0;29
+2022-08-12;SEM:A;L'Etoile;Grenoble, Polesud - Alpexpo;SEM:2061;1660339560;0;127
+2022-08-12;SEM:A;L'Etoile;Échirolles, Les Granges;SEM:2063;1660339662;0;128
+2022-08-12;SEM:A;L'Etoile;Échirolles, Surieux;SEM:2065;1660339788;0;128
+2022-08-12;SEM:A;L'Etoile;Échirolles, Essarts - La Butte;SEM:2067;1660339903;0;128
+2022-08-12;SEM:A;L'Etoile;Échirolles, Echirolles Gare;SEM:2208;1660339980;0;127
+2022-08-12;SEM:A;L'Etoile;Échirolles, La Rampe - Centre-Ville;SEM:2069;1660340068;0;128
+2022-08-12;SEM:A;L'Etoile;Échirolles, Marie Curie;SEM:2071;1660340128;0;127
+2022-08-12;SEM:A;L'Etoile;Échirolles, Auguste Delaune;SEM:2073;1660340196;0;128
+2022-08-12;SEM:A;L'Etoile;Échirolles, Denis Papin;SEM:2075;1660340280;0;127
+2022-08-12;SEM:A;L'Etoile;Le Pont-de-Claix, Edmée Chandon;SEM:4382;1660340393;0;127
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Polesud - Alpexpo;SEM:2060;1660342200;0;-8
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Grand'place;SEM:2212;1660338780;0;112
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Arlequin;SEM:2004;1660338885;0;113
+2022-08-12;SEM:A;Victor Hugo;Grenoble, La Bruyère-Parc Jean Verlhac;SEM:2006;1660338949;0;113
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Malherbe;SEM:2008;1660339020;0;113
+2022-08-12;SEM:A;Victor Hugo;Grenoble, MC2: Maison de la Culture;SEM:2010;1660339118;0;114
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Mounier;SEM:2012;1660339254;0;114
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Albert 1er de Belgique;SEM:2014;1660339320;0;113
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Albert 1er de Belgique;SEM:2014;1660341720;0;-7
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Verdun - Préfecture;SEM:2018;1660340820;0;-32
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Hubert Dubedout - Maison du Tourisme;SEM:2020;1660340971;0;-31
+2022-08-12;SEM:A;L'Etoile;Grenoble, La Bruyère-Parc Jean Verlhac;SEM:2007;1660339276;0;102
+2022-08-12;SEM:A;L'Etoile;Grenoble, Verdun - Préfecture;SEM:2019;1660339560;0;44
+2022-08-12;SEM:A;L'Etoile;Grenoble, Verdun - Préfecture;SEM:2019;1660340520;0;44
+2022-08-12;SEM:A;L'Etoile;Grenoble, Verdun - Préfecture;SEM:2019;1660341720;0;44
+2022-08-12;SEM:A;L'Etoile;Grenoble, Albert 1er de Belgique;SEM:2015;1660339860;0;44
+2022-08-12;SEM:A;L'Etoile;Grenoble, Albert 1er de Belgique;SEM:2015;1660340820;0;44
+2022-08-12;SEM:A;L'Etoile;Grenoble, Mounier;SEM:2013;1660339912;0;44
+2022-08-12;SEM:A;L'Etoile;Grenoble, Mounier;SEM:2013;1660340872;0;44
+2022-08-12;SEM:A;L'Etoile;Grenoble, MC2: Maison de la Culture;SEM:2011;1660340021;0;44
+2022-08-12;SEM:A;L'Etoile;Grenoble, MC2: Maison de la Culture;SEM:2011;1660340981;0;44
+2022-08-12;SEM:A;L'Etoile;Grenoble, Malherbe;SEM:2009;1660340100;0;44
+2022-08-12;SEM:A;L'Etoile;Grenoble, Malherbe;SEM:2009;1660341060;0;44
+2022-08-12;SEM:A;L'Etoile;Grenoble, La Bruyère-Parc Jean Verlhac;SEM:2007;1660340176;0;44
+2022-08-12;SEM:A;L'Etoile;Grenoble, La Bruyère-Parc Jean Verlhac;SEM:2007;1660341136;0;44
+2022-08-12;SEM:A;L'Etoile;Grenoble, Arlequin;SEM:2005;1660340246;0;44
+2022-08-12;SEM:A;L'Etoile;Grenoble, Arlequin;SEM:2005;1660341206;0;44
+2022-08-12;SEM:A;L'Etoile;Grenoble, Grand'place;SEM:2218;1660339440;0;120
+2022-08-12;SEM:A;L'Etoile;Grenoble, Grand'place;SEM:2218;1660340340;0;73
+2022-08-12;SEM:A;L'Etoile;Grenoble, Grand'place;SEM:2218;1660341300;0;73
+2022-08-12;SEM:A;L'Etoile;Grenoble, Polesud - Alpexpo;SEM:2061;1660339560;0;120
+2022-08-12;SEM:A;L'Etoile;Grenoble, Polesud - Alpexpo;SEM:2061;1660340460;0;73
+2022-08-12;SEM:A;L'Etoile;Échirolles, Les Granges;SEM:2063;1660340562;0;74
+2022-08-12;SEM:A;L'Etoile;Échirolles, Surieux;SEM:2065;1660340688;0;74
+2022-08-12;SEM:A;L'Etoile;Échirolles, Essarts - La Butte;SEM:2067;1660340803;0;74
+2022-08-12;SEM:A;L'Etoile;Échirolles, Echirolles Gare;SEM:2208;1660339980;0;120
+2022-08-12;SEM:A;L'Etoile;Échirolles, Echirolles Gare;SEM:2208;1660340880;0;73
+2022-08-12;SEM:A;L'Etoile;Échirolles, La Rampe - Centre-Ville;SEM:2069;1660340968;0;74
+2022-08-12;SEM:A;L'Etoile;Échirolles, Marie Curie;SEM:2071;1660340128;0;120
+2022-08-12;SEM:A;L'Etoile;Échirolles, Marie Curie;SEM:2071;1660341028;0;73
+2022-08-12;SEM:A;L'Etoile;Échirolles, Auguste Delaune;SEM:2073;1660341096;0;74
+2022-08-12;SEM:A;L'Etoile;Échirolles, Denis Papin;SEM:2075;1660340280;0;120
+2022-08-12;SEM:A;L'Etoile;Le Pont-de-Claix, Edmée Chandon;SEM:4382;1660340393;0;120
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Hubert Dubedout - Maison du Tourisme;SEM:2020;1660338871;0;-43
+2022-08-12;SEM:A;L'Etoile;Échirolles, Les Granges;SEM:2063;1660339662;0;109
+2022-08-12;SEM:A;L'Etoile;Échirolles, Surieux;SEM:2065;1660339788;0;109
+2022-08-12;SEM:A;L'Etoile;Échirolles, Essarts - La Butte;SEM:2067;1660339903;0;109
+2022-08-12;SEM:A;L'Etoile;Échirolles, La Rampe - Centre-Ville;SEM:2069;1660340068;0;109
+2022-08-12;SEM:A;L'Etoile;Échirolles, Auguste Delaune;SEM:2073;1660340196;0;109
+2022-08-12;SEM:A;L'Etoile;Le Pont-de-Claix, Edmée Chandon;SEM:4382;1660339591;0;119
+2022-08-12;SEM:A;L'Etoile;Échirolles, Les Granges;SEM:2063;1660338822;0;120
+2022-08-12;SEM:A;L'Etoile;Échirolles, Surieux;SEM:2065;1660338948;0;120
+2022-08-12;SEM:A;L'Etoile;Échirolles, Essarts - La Butte;SEM:2067;1660339063;0;120
+2022-08-12;SEM:A;L'Etoile;Échirolles, Echirolles Gare;SEM:2208;1660339140;0;119
+2022-08-12;SEM:A;L'Etoile;Échirolles, La Rampe - Centre-Ville;SEM:2069;1660339228;0;120
+2022-08-12;SEM:A;L'Etoile;Échirolles, Marie Curie;SEM:2071;1660339288;0;119
+2022-08-12;SEM:A;L'Etoile;Échirolles, Auguste Delaune;SEM:2073;1660339356;0;120
+2022-08-12;SEM:A;L'Etoile;Échirolles, Denis Papin;SEM:2075;1660339440;0;119
+2022-08-12;SEM:A;L'Etoile;Grenoble, Polesud - Alpexpo;SEM:2061;1660341420;0;73
+2022-08-12;SEM:A;L'Etoile;Échirolles, Les Granges;SEM:2063;1660338822;0;129
+2022-08-12;SEM:A;L'Etoile;Échirolles, Surieux;SEM:2065;1660338948;0;129
+2022-08-12;SEM:A;L'Etoile;Échirolles, Essarts - La Butte;SEM:2067;1660339063;0;129
+2022-08-12;SEM:A;L'Etoile;Échirolles, Echirolles Gare;SEM:2208;1660339140;0;128
+2022-08-12;SEM:A;L'Etoile;Échirolles, La Rampe - Centre-Ville;SEM:2069;1660339228;0;129
+2022-08-12;SEM:A;L'Etoile;Échirolles, Marie Curie;SEM:2071;1660339288;0;128
+2022-08-12;SEM:A;L'Etoile;Échirolles, Auguste Delaune;SEM:2073;1660339356;0;129
+2022-08-12;SEM:A;L'Etoile;Échirolles, Denis Papin;SEM:2075;1660339440;0;128
+2022-08-12;SEM:A;L'Etoile;Le Pont-de-Claix, Edmée Chandon;SEM:4382;1660339591;0;122
+2022-08-12;SEM:A;Victor Hugo;Grenoble, Hubert Dubedout - Maison du Tourisme;SEM:2020;1660342171;0;-13
+2022-08-12;SEM:A;L'Etoile;Grenoble, La Bruyère-Parc Jean Verlhac;SEM:2007;1660339276;0;56
+2022-08-12;SEM:A;L'Etoile;Grenoble, Arlequin;SEM:2005;1660339346;0;56
+2022-08-12;SEM:A;L'Etoile;Grenoble, Grand'place;SEM:2218;1660339440;0;85
+2022-08-12;SEM:A;L'Etoile;Grenoble, Polesud - Alpexpo;SEM:2061;1660339560;0;85
+2022-08-12;SEM:A;L'Etoile;Échirolles, Echirolles Gare;SEM:2208;1660339980;0;85
+2022-08-12;SEM:A;L'Etoile;Échirolles, Marie Curie;SEM:2071;1660340128;0;85
+2022-08-12;SEM:A;L'Etoile;Échirolles, Denis Papin;SEM:2075;1660340280;0;85
+2022-08-12;SEM:A;L'Etoile;Échirolles, Denis Papin;SEM:2075;1660341180;0;92
+2022-08-12;SEM:A;L'Etoile;Le Pont-de-Claix, Edmée Chandon;SEM:4382;1660340393;0;85
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1863;1660339379;0;27
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Champ Roman;SEM:1550;1660339484;0;27
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0910;1660339560;0;27
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0911;1660339614;0;28
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0912;1660339681;0;28
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Flandrin - Valmy;SEM:4025;1660339800;0;28
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Bir Hakeim;SEM:0785;1660339976;0;28
+2022-08-12;SEM:15;Chenevieres;Domène, L'Oratoire;SEM:0526;1660339365;0;70
+2022-08-12;SEM:15;Chenevieres;Domène, Coubertin;SEM:1771;1660339407;0;70
+2022-08-12;SEM:15;Chenevieres;Domène, Domène Mairie;SEM:1278;1660339440;0;70
+2022-08-12;SEM:15;Chenevieres;Domène, Le Prieuré;SEM:0523;1660339495;0;71
+2022-08-12;SEM:15;Chenevieres;Domène, Les Vernes;SEM:1160;1660339543;0;70
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Champ Roman;SEM:1550;1660339484;0;-25
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Flandrin - Valmy;SEM:4025;1660339800;0;-24
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0910;1660339560;0;-25
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0911;1660339614;0;-24
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0912;1660339681;0;-24
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Bir Hakeim;SEM:0785;1660339976;0;-24
+2022-08-12;SEM:15;Chenevieres;Domène, Le Prieuré;SEM:0523;1660339495;0;45
+2022-08-12;SEM:15;Chenevieres;Domène, Les Vernes;SEM:1160;1660339543;0;44
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0910;1660339560;0;8
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0911;1660339614;0;9
+2022-08-12;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0912;1660339681;0;9
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Flandrin - Valmy;SEM:4025;1660339800;0;9
+2022-08-12;SEM:15;Verdun Prefect.;Grenoble, Bir Hakeim;SEM:0785;1660339976;0;9
+2022-08-12;SEM:15;Chenevieres;Domène, Les Vernes;SEM:1160;1660339543;0;79
+2022-08-14;SEM:15;Verdun Prefect.;Saint-Ismier, Bois Français;SEM:0020;1660495800;0;0
+2022-08-14;SEM:15;Verdun Prefect.;Saint-Ismier, Bois Français;SEM:0020;1660497480;0;0
+2022-08-14;SEM:15;Bois Francais;Domène, Chenevières;SEM:0521;1660496220;0;-1
+2022-08-14;SEM:15;Verdun Prefect.;Domène, Chenevières;SEM:0521;1660497960;0;-1
+2022-08-14;SEM:15;Verdun Prefect.;Domène, Les Vernes;SEM:1161;1660498071;0;0
+2022-08-14;SEM:15;Verdun Prefect.;Domène, Le Prieuré;SEM:0522;1660498135;0;1
+2022-08-14;SEM:15;Verdun Prefect.;Domène, Domène Mairie;SEM:0037;1660496400;0;0
+2022-08-14;SEM:15;Verdun Prefect.;Domène, Domène Mairie;SEM:0037;1660498200;0;1
+2022-08-14;SEM:15;Verdun Prefect.;Domène, Coubertin;SEM:1770;1660496438;0;-11
+2022-08-14;SEM:15;Verdun Prefect.;Domène, Coubertin;SEM:1770;1660498238;0;-2
+2022-08-14;SEM:15;Verdun Prefect.;Domène, L'Oratoire;SEM:0107;1660496472;0;-11
+2022-08-14;SEM:15;Verdun Prefect.;Domène, L'Oratoire;SEM:0107;1660498272;0;-2
+2022-08-14;SEM:15;Verdun Prefect.;Domène, Les Mortes;SEM:0038;1660496526;0;-11
+2022-08-14;SEM:15;Verdun Prefect.;Murianette, Les Rivets;SEM:0528;1660496571;0;9
+2022-08-14;SEM:15;Verdun Prefect.;Murianette, La Briot;SEM:1532;1660496623;0;10
+2022-08-14;SEM:15;Verdun Prefect.;Murianette, Le Bourg;SEM:0530;1660496655;0;9
+2022-08-14;SEM:15;Verdun Prefect.;Gières, La Perrière;SEM:0040;1660496725;0;9
+2022-08-14;SEM:15;Verdun Prefect.;Gières, Le Japin;SEM:0042;1660496760;0;0
+2022-08-14;SEM:15;Verdun Prefect.;Gières, Champrondet;SEM:0043;1660496794;0;10
+2022-08-14;SEM:15;Verdun Prefect.;Gières, Pied de Gières;SEM:0044;1660496831;0;1
+2022-08-14;SEM:15;Verdun Prefect.;Gières, Place de la République;SEM:1566;1660496880;0;0
+2022-08-14;SEM:15;Verdun Prefect.;Gières, Edelweiss;SEM:0333;1660496945;0;1
+2022-08-14;SEM:15;Verdun Prefect.;Gières, Le Sonnant;SEM:0215;1660497008;0;1
+2022-08-14;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1863;1660497088;0;-10
+2022-08-14;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Champ Roman;SEM:1550;1660497211;0;-10
+2022-08-14;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0910;1660497300;0;0
+2022-08-14;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0911;1660497368;0;1
+2022-08-14;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0912;1660497451;0;1
+2022-08-14;SEM:15;Verdun Prefect.;Grenoble, Flandrin - Valmy;SEM:4025;1660497600;0;0
+2022-08-14;SEM:15;Verdun Prefect.;Grenoble, Bir Hakeim;SEM:0785;1660497741;0;0
+2022-08-14;SEM:15;Bois Francais;Grenoble, Verdun - Préfecture;SEM:4027;1660498200;0;0
+2022-08-14;SEM:15;Bois Francais;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0537;1660494966;0;1
+2022-08-14;SEM:15;Bois Francais;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0536;1660495021;0;0
+2022-08-14;SEM:15;Bois Francais;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0909;1660495080;0;0
+2022-08-14;SEM:15;Bois Francais;Gières, Le Sonnant;SEM:0533;1660495358;0;1
+2022-08-14;SEM:15;Bois Francais;Gières, Edelweiss;SEM:0334;1660495435;0;1
+2022-08-14;SEM:15;Bois Francais;Gières, Le Japin;SEM:1045;1660495680;0;0
+2022-08-14;SEM:15;Verdun Prefect.;Domène, Les Arnauds;SEM:0525;1660496280;0;0
+2022-08-14;SEM:15;Verdun Prefect.;Domène, René Cassin;SEM:1080;1660496326;0;1
+2022-08-14;SEM:15;Bois Francais;Grenoble, Bir Hakeim;SEM:0786;1660498286;0;0
+2022-08-14;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1863;1660495288;0;-18
+2022-08-14;SEM:15;Verdun Prefect.;Grenoble, Flandrin - Valmy;SEM:4025;1660495800;0;-19
+2022-08-14;SEM:15;Bois Francais;Grenoble, Verdun - Préfecture;SEM:4027;1660496400;0;0
+2022-08-14;SEM:15;Bois Francais;Grenoble, Flandrin - Valmy;SEM:4026;1660496640;0;-4
+2022-08-14;SEM:15;Bois Francais;Saint-Martin-d'Hères, Champ Roman;SEM:1277;1660495177;0;-27
+2022-08-14;SEM:15;Bois Francais;Saint-Martin-d'Hères, Champ Roman;SEM:1277;1660496977;0;-3
+2022-08-14;SEM:15;Bois Francais;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1864;1660495298;0;-27
+2022-08-14;SEM:15;Bois Francais;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1864;1660497098;0;-3
+2022-08-14;SEM:15;Bois Francais;Gières, Place de la République;SEM:1565;1660495500;0;-28
+2022-08-14;SEM:15;Bois Francais;Gières, Place de la République;SEM:1565;1660497300;0;-4
+2022-08-14;SEM:15;Bois Francais;Murianette, La Briot;SEM:1531;1660495822;0;-27
+2022-08-14;SEM:15;Bois Francais;Murianette, La Briot;SEM:1531;1660497622;0;-3
+2022-08-14;SEM:15;Bois Francais;Murianette, Les Rivets;SEM:0529;1660495871;0;-28
+2022-08-14;SEM:15;Bois Francais;Murianette, Les Rivets;SEM:0529;1660497671;0;-4
+2022-08-14;SEM:15;Bois Francais;Domène, Les Mortes;SEM:0527;1660495916;0;-27
+2022-08-14;SEM:15;Bois Francais;Domène, Les Mortes;SEM:0527;1660497716;0;-3
+2022-08-14;SEM:15;Bois Francais;Domène, L'Oratoire;SEM:0526;1660495965;0;-27
+2022-08-14;SEM:15;Bois Francais;Domène, L'Oratoire;SEM:0526;1660497765;0;-3
+2022-08-14;SEM:15;Bois Francais;Domène, Coubertin;SEM:1771;1660496007;0;-27
+2022-08-14;SEM:15;Bois Francais;Domène, Coubertin;SEM:1771;1660497807;0;-3
+2022-08-14;SEM:15;Bois Francais;Domène, Domène Mairie;SEM:1278;1660496040;0;-27
+2022-08-14;SEM:15;Bois Francais;Domène, Domène Mairie;SEM:1278;1660497840;0;-3
+2022-08-14;SEM:15;Bois Francais;Domène, Le Prieuré;SEM:0523;1660496081;0;-26
+2022-08-14;SEM:15;Bois Francais;Domène, Les Vernes;SEM:1160;1660496117;0;-27
+2022-08-14;SEM:15;Bois Francais;Domène, Les Arnauds;SEM:0525;1660498020;0;12
+2022-08-14;SEM:15;Bois Francais;Domène, Chenevières;SEM:0521;1660496220;0;-27
+2022-08-14;SEM:15;Verdun Prefect.;Domène, Chenevières;SEM:0521;1660497960;0;0
+2022-08-14;SEM:15;Verdun Prefect.;Domène, Les Vernes;SEM:1161;1660498094;0;0
+2022-08-14;SEM:15;Verdun Prefect.;Domène, Le Prieuré;SEM:0522;1660498134;0;0
+2022-08-14;SEM:15;Verdun Prefect.;Domène, Domène Mairie;SEM:0037;1660498200;0;-2
+2022-08-14;SEM:15;Verdun Prefect.;Domène, Les Mortes;SEM:0038;1660498326;0;-2
+2022-08-14;SEM:15;Verdun Prefect.;Murianette, Les Rivets;SEM:0528;1660498371;0;-2
+2022-08-14;SEM:15;Verdun Prefect.;Gières, La Perrière;SEM:0040;1660494925;0;-19
+2022-08-14;SEM:15;Verdun Prefect.;Gières, Le Japin;SEM:0042;1660494960;0;-19
+2022-08-14;SEM:15;Verdun Prefect.;Gières, Champrondet;SEM:0043;1660494994;0;-18
+2022-08-14;SEM:15;Verdun Prefect.;Gières, Pied de Gières;SEM:0044;1660495031;0;-18
+2022-08-14;SEM:15;Verdun Prefect.;Gières, Place de la République;SEM:1566;1660495080;0;-19
+2022-08-14;SEM:15;Verdun Prefect.;Gières, Edelweiss;SEM:0333;1660495145;0;-18
+2022-08-14;SEM:15;Verdun Prefect.;Gières, Le Sonnant;SEM:0215;1660495208;0;-18
+2022-08-14;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Champ Roman;SEM:1550;1660495411;0;-18
+2022-08-14;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0910;1660495500;0;-19
+2022-08-14;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0911;1660495568;0;-18
+2022-08-14;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0912;1660495651;0;-18
+2022-08-14;SEM:15;Verdun Prefect.;Grenoble, Bir Hakeim;SEM:0785;1660495941;0;-19
+2022-08-14;SEM:15;Bois Francais;Grenoble, Bir Hakeim;SEM:0786;1660496484;0;1
+2022-08-14;SEM:15;Bois Francais;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0537;1660494966;0;-27
+2022-08-14;SEM:15;Bois Francais;Saint-Martin-d'Hères, Péri - Brossolette;SEM:0537;1660496766;0;-3
+2022-08-14;SEM:15;Bois Francais;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0536;1660495021;0;-28
+2022-08-14;SEM:15;Bois Francais;Saint-Martin-d'Hères, Neyrpic - Belledonne;SEM:0536;1660496821;0;-4
+2022-08-14;SEM:15;Bois Francais;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0909;1660495080;0;-28
+2022-08-14;SEM:15;Bois Francais;Saint-Martin-d'Hères, Clinique Belledonne;SEM:0909;1660496880;0;-4
+2022-08-14;SEM:15;Bois Francais;Gières, Le Sonnant;SEM:0533;1660495358;0;-27
+2022-08-14;SEM:15;Bois Francais;Gières, Le Sonnant;SEM:0533;1660497158;0;-3
+2022-08-14;SEM:15;Bois Francais;Gières, Edelweiss;SEM:0334;1660495435;0;-27
+2022-08-14;SEM:15;Bois Francais;Gières, Edelweiss;SEM:0334;1660497235;0;-3
+2022-08-14;SEM:15;Bois Francais;Gières, Pied de Gières;SEM:0045;1660495567;0;-28
+2022-08-14;SEM:15;Bois Francais;Gières, Pied de Gières;SEM:0045;1660497367;0;-4
+2022-08-14;SEM:15;Bois Francais;Gières, Champrondet;SEM:0331;1660495620;0;-27
+2022-08-14;SEM:15;Bois Francais;Gières, Champrondet;SEM:0331;1660497420;0;-3
+2022-08-14;SEM:15;Bois Francais;Gières, Le Japin;SEM:1045;1660495680;0;-28
+2022-08-14;SEM:15;Bois Francais;Gières, Le Japin;SEM:1045;1660497480;0;-4
+2022-08-14;SEM:15;Bois Francais;Murianette, La Perrière;SEM:0041;1660495726;0;-28
+2022-08-14;SEM:15;Bois Francais;Murianette, La Perrière;SEM:0041;1660497526;0;-4
+2022-08-14;SEM:15;Bois Francais;Murianette, Le Bourg;SEM:0039;1660495781;0;-28
+2022-08-14;SEM:15;Bois Francais;Murianette, Le Bourg;SEM:0039;1660497581;0;-4
+2022-08-14;SEM:15;Bois Francais;Domène, René Cassin;SEM:1081;1660497933;0;-3
+2022-08-14;SEM:15;Bois Francais;Grenoble, Flandrin - Valmy;SEM:4026;1660498440;0;-11
+2022-08-14;SEM:15;Bois Francais;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1864;1660495298;0;-66
+2022-08-14;SEM:15;Bois Francais;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1864;1660497098;0;1
+2022-08-14;SEM:15;Verdun Prefect.;Domène, Coubertin;SEM:1770;1660498238;0;1
+2022-08-14;SEM:15;Verdun Prefect.;Murianette, La Briot;SEM:1532;1660498423;0;2
+2022-08-14;SEM:15;Verdun Prefect.;Gières, Place de la République;SEM:1566;1660495080;0;-6
+2022-08-14;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Porte du Grésivaudan;SEM:1863;1660495288;0;-5
+2022-08-14;SEM:15;Verdun Prefect.;Saint-Martin-d'Hères, Champ Roman;SEM:1550;1660495411;0;-2
+2022-08-14;SEM:15;Verdun Prefect.;Grenoble, Flandrin - Valmy;SEM:4025;1660495800;0;-6
+2022-08-14;SEM:15;Bois Francais;Grenoble, Flandrin - Valmy;SEM:4026;1660496640;0;0
+2022-08-14;SEM:15;Bois Francais;Saint-Martin-d'Hères, Champ Roman;SEM:1277;1660495177;0;-66
+2022-08-14;SEM:15;Bois Francais;Saint-Martin-d'Hères, Champ Roman;SEM:1277;1660496977;0;1
+2022-08-14;SEM:15;Bois Francais;Gières, Le Sonnant;SEM:0533;1660495358;0;-66
+2022-08-14;SEM:15;Bois Francais;Gières, Le Sonnant;SEM:0533;1660497158;0;1
+2022-08-14;SEM:15;Bois Francais;Gières, Edelweiss;SEM:0334;1660495435;0;-66
+2022-08-14;SEM:15;Bois Francais;Gières, Edelweiss;SEM:0334;1660497235;0;1
+2022-08-14;SEM:15;Bois Francais;Gières, Place de la République;SEM:1565;1660495500;0;-67
+2022-08-14;SEM:15;Bois Francais;Gières, Place de la République;SEM:1565;1660497300;0;0
+2022-08-14;SEM:15;Bois Francais;Gières, Pied de Gières;SEM:0045;1660495567;0;-67
+2022-08-14;SEM:15;Bois Francais;Gières, Pied de Gières;SEM:0045;1660497367;0;0
+2022-08-14;SEM:15;Bois Francais;Gières, Champrondet;SEM:0331;1660495620;0;-66
+2022-08-14;SEM:15;Bois Francais;Gières, Champrondet;SEM:0331;1660497420;0;1
+2022-08-14;SEM:15;Bois Francais;Gières, Le Japin;SEM:1045;1660495680;0;-67
+2022-08-14;SEM:15;Bois Francais;Gières, Le Japin;SEM:1045;1660497480;0;0
+2022-08-14;SEM:15;Bois Francais;Murianette, La Perrière;SEM:0041;1660495726;0;-67
+2022-08-14;SEM:15;Bois Francais;Murianette, La Perrière;SEM:0041;1660497526;0;0
+2022-08-14;SEM:15;Bois Francais;Murianette, Le Bourg;SEM:0039;1660495781;0;-67
+2022-08-14;SEM:15;Bois Francais;Murianette, Le Bourg;SEM:0039;1660497581;0;0
+2022-08-14;SEM:15;Bois Francais;Murianette, La Briot;SEM:1531;1660495822;0;-66
+2022-08-14;SEM:15;Bois Francais;Murianette, La Briot;SEM:1531;1660497622;0;1
+2022-08-14;SEM:15;Bois Francais;Murianette, Les Rivets;SEM:0529;1660495871;0;-67
+2022-08-14;SEM:15;Bois Francais;Murianette, Les Rivets;SEM:0529;1660497671;0;0
+2022-08-14;SEM:15;Bois Francais;Domène, Les Mortes;SEM:0527;1660495916;0;-66
+2022-08-14;SEM:15;Bois Francais;Domène, Les Mortes;SEM:0527;1660497716;0;1
+2022-08-14;SEM:15;Bois Francais;Domène, L'Oratoire;SEM:0526;1660495965;0;-66
+2022-08-14;SEM:15;Bois Francais;Domène, L'Oratoire;SEM:0526;1660497765;0;1
+2022-08-14;SEM:15;Bois Francais;Domène, Coubertin;SEM:1771;1660496007;0;-66
+2022-08-14;SEM:15;Bois Francais;Domène, Coubertin;SEM:1771;1660497807;0;1
+2022-08-14;SEM:15;Bois Francais;Domène, Domène Mairie;SEM:1278;1660496040;0;-66
+2022-08-14;SEM:15;Bois Francais;Domène, Domène Mairie;SEM:1278;1660497840;0;1
+2022-08-14;SEM:15;Bois Francais;Domène, Le Prieuré;SEM:0523;1660496081;0;-65
+2022-08-14;SEM:15;Bois Francais;Domène, Les Vernes;SEM:1160;1660496117;0;-66
+2022-08-14;SEM:15;Bois Francais;Domène, René Cassin;SEM:1081;1660497925;0;2
